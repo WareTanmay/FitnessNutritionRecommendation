@@ -1,0 +1,588 @@
+Sr No.,Exercise Name,Equipment,Mechanics,Force,Preparation,Execution,Targeted Muscle,Difficulty Level
+1,Lunges,Dumbbell,Single,Pull,Prepare by adjusting equipment for Lunges.,Execute the movement with proper form for Lunges.,Legs,1
+2,Overhead Press,Dumbbell,Single,Push,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Shoulder,4
+3,Cable Crossover,Kettlebell,Compound,Push,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Chest,5
+4,Preacher Curl,Kettlebell,Single,Push,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Biceps,4
+5,Leg Raises,Kettlebell,Compound,Push,Prepare by adjusting equipment for Leg Raises.,Execute the movement with proper form for Leg Raises.,Abs,4
+6,Hammer Curl,Cable,Compound,Pull,Prepare by adjusting equipment for Hammer Curl.,Execute the movement with proper form for Hammer Curl.,Biceps,1
+7,Lateral Raise,Kettlebell,Single,Push,Prepare by adjusting equipment for Lateral Raise.,Execute the movement with proper form for Lateral Raise.,Shoulder,3
+8,Squat,Resistance Band,Single,Push,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Legs,1
+9,Face Pull,Cable,Single,Pull,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Shoulder,2
+10,Seated Cable Row,Dumbbell,Single,Push,Prepare by adjusting equipment for Seated Cable Row.,Execute the movement with proper form for Seated Cable Row.,Back,2
+11,Calf Raise,Cable,Compound,Pull,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Legs,2
+12,Romanian Deadlift,Resistance Band,Compound,Push,Prepare by adjusting equipment for Romanian Deadlift.,Execute the movement with proper form for Romanian Deadlift.,Legs,4
+13,Leg Curl,Kettlebell,Compound,Pull,Prepare by adjusting equipment for Leg Curl.,Execute the movement with proper form for Leg Curl.,Legs,1
+14,Triceps Pushdown,Bodyweight,Single,Pull,Prepare by adjusting equipment for Triceps Pushdown.,Execute the movement with proper form for Triceps Pushdown.,Triceps,3
+15,Leg Curl,Bodyweight,Compound,Push,Prepare by adjusting equipment for Leg Curl.,Execute the movement with proper form for Leg Curl.,Legs,1
+16,Triceps Pushdown,Bodyweight,Compound,Push,Prepare by adjusting equipment for Triceps Pushdown.,Execute the movement with proper form for Triceps Pushdown.,Triceps,2
+17,Overhead Triceps Extension,Cable,Single,Push,Prepare by adjusting equipment for Overhead Triceps Extension.,Execute the movement with proper form for Overhead Triceps Extension.,Triceps,1
+18,Leg Press,Barbell,Single,Pull,Prepare by adjusting equipment for Leg Press.,Execute the movement with proper form for Leg Press.,Legs,3
+19,Skull Crushers,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Skull Crushers.,Execute the movement with proper form for Skull Crushers.,Triceps,4
+20,Bench Press,Barbell,Single,Push,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Chest,5
+21,Squat,Barbell,Compound,Push,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Legs,2
+22,Close-Grip Bench Press,Machine,Single,Push,Prepare by adjusting equipment for Close-Grip Bench Press.,Execute the movement with proper form for Close-Grip Bench Press.,Triceps,3
+23,Pull-Up,Barbell,Single,Pull,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Back,4
+24,Skull Crushers,Kettlebell,Single,Push,Prepare by adjusting equipment for Skull Crushers.,Execute the movement with proper form for Skull Crushers.,Triceps,4
+25,Deadlift,Resistance Band,Compound,Push,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Back,1
+26,Cable Curl,Barbell,Single,Push,Prepare by adjusting equipment for Cable Curl.,Execute the movement with proper form for Cable Curl.,Biceps,4
+27,Romanian Deadlift,Resistance Band,Single,Pull,Prepare by adjusting equipment for Romanian Deadlift.,Execute the movement with proper form for Romanian Deadlift.,Legs,3
+28,Front Raise,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Front Raise.,Execute the movement with proper form for Front Raise.,Shoulder,2
+29,Close-Grip Bench Press,Machine,Single,Pull,Prepare by adjusting equipment for Close-Grip Bench Press.,Execute the movement with proper form for Close-Grip Bench Press.,Triceps,2
+30,Dumbbell Curl,Machine,Single,Pull,Prepare by adjusting equipment for Dumbbell Curl.,Execute the movement with proper form for Dumbbell Curl.,Biceps,5
+31,Cable Crossover,Bodyweight,Single,Pull,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Chest,3
+32,Dips,Resistance Band,Single,Pull,Prepare by adjusting equipment for Dips.,Execute the movement with proper form for Dips.,Chest,2
+33,Bent-Over Row,Machine,Compound,Pull,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Back,5
+34,Dips,Bodyweight,Compound,Push,Prepare by adjusting equipment for Dips.,Execute the movement with proper form for Dips.,Chest,1
+35,Lunges,Resistance Band,Single,Push,Prepare by adjusting equipment for Lunges.,Execute the movement with proper form for Lunges.,Legs,4
+36,Romanian Deadlift,Resistance Band,Compound,Push,Prepare by adjusting equipment for Romanian Deadlift.,Execute the movement with proper form for Romanian Deadlift.,Legs,3
+37,Romanian Deadlift,Kettlebell,Single,Push,Prepare by adjusting equipment for Romanian Deadlift.,Execute the movement with proper form for Romanian Deadlift.,Legs,4
+38,Arnold Press,Dumbbell,Compound,Push,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,2
+39,Seated Cable Row,Machine,Compound,Push,Prepare by adjusting equipment for Seated Cable Row.,Execute the movement with proper form for Seated Cable Row.,Back,2
+40,Arnold Press,Barbell,Compound,Push,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,1
+41,Bench Press,Dumbbell,Single,Pull,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Chest,5
+42,Hammer Curl,Dumbbell,Compound,Push,Prepare by adjusting equipment for Hammer Curl.,Execute the movement with proper form for Hammer Curl.,Biceps,4
+43,Bent-Over Row,Cable,Compound,Push,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Back,4
+44,Crunches,Kettlebell,Compound,Push,Prepare by adjusting equipment for Crunches.,Execute the movement with proper form for Crunches.,Abs,1
+45,Squat,Barbell,Single,Pull,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Legs,5
+46,Face Pull,Kettlebell,Compound,Pull,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Shoulder,2
+47,Overhead Triceps Extension,Barbell,Compound,Pull,Prepare by adjusting equipment for Overhead Triceps Extension.,Execute the movement with proper form for Overhead Triceps Extension.,Triceps,5
+48,Triceps Dips,Barbell,Compound,Pull,Prepare by adjusting equipment for Triceps Dips.,Execute the movement with proper form for Triceps Dips.,Triceps,5
+49,Front Raise,Barbell,Single,Push,Prepare by adjusting equipment for Front Raise.,Execute the movement with proper form for Front Raise.,Shoulder,5
+50,Hammer Curl,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Hammer Curl.,Execute the movement with proper form for Hammer Curl.,Biceps,5
+51,Cable Curl,Machine,Compound,Pull,Prepare by adjusting equipment for Cable Curl.,Execute the movement with proper form for Cable Curl.,Biceps,3
+52,Lat Pulldown,Machine,Compound,Pull,Prepare by adjusting equipment for Lat Pulldown.,Execute the movement with proper form for Lat Pulldown.,Back,1
+53,Front Raise,Dumbbell,Single,Push,Prepare by adjusting equipment for Front Raise.,Execute the movement with proper form for Front Raise.,Shoulder,4
+54,Close-Grip Bench Press,Kettlebell,Single,Push,Prepare by adjusting equipment for Close-Grip Bench Press.,Execute the movement with proper form for Close-Grip Bench Press.,Triceps,1
+55,Russian Twist,Barbell,Compound,Pull,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,1
+56,T-Bar Row,Resistance Band,Single,Push,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Back,5
+57,Triceps Dips,Barbell,Compound,Push,Prepare by adjusting equipment for Triceps Dips.,Execute the movement with proper form for Triceps Dips.,Triceps,3
+58,Close-Grip Bench Press,Bodyweight,Single,Pull,Prepare by adjusting equipment for Close-Grip Bench Press.,Execute the movement with proper form for Close-Grip Bench Press.,Triceps,2
+59,Preacher Curl,Barbell,Compound,Push,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Biceps,5
+60,Cable Curl,Dumbbell,Compound,Push,Prepare by adjusting equipment for Cable Curl.,Execute the movement with proper form for Cable Curl.,Biceps,1
+61,Dips,Dumbbell,Compound,Push,Prepare by adjusting equipment for Dips.,Execute the movement with proper form for Dips.,Chest,2
+62,Overhead Press,Cable,Single,Push,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Shoulder,5
+63,Push-Up,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Chest,3
+64,Hammer Curl,Resistance Band,Single,Pull,Prepare by adjusting equipment for Hammer Curl.,Execute the movement with proper form for Hammer Curl.,Biceps,3
+65,Leg Press,Bodyweight,Compound,Push,Prepare by adjusting equipment for Leg Press.,Execute the movement with proper form for Leg Press.,Legs,2
+66,Incline Dumbbell Press,Machine,Single,Push,Prepare by adjusting equipment for Incline Dumbbell Press.,Execute the movement with proper form for Incline Dumbbell Press.,Chest,3
+67,Pull-Up,Barbell,Compound,Push,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Back,2
+68,Triceps Dips,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Triceps Dips.,Execute the movement with proper form for Triceps Dips.,Triceps,3
+69,Romanian Deadlift,Kettlebell,Single,Push,Prepare by adjusting equipment for Romanian Deadlift.,Execute the movement with proper form for Romanian Deadlift.,Legs,2
+70,T-Bar Row,Resistance Band,Single,Push,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Back,3
+71,Triceps Dips,Resistance Band,Compound,Push,Prepare by adjusting equipment for Triceps Dips.,Execute the movement with proper form for Triceps Dips.,Triceps,5
+72,Calf Raise,Kettlebell,Compound,Pull,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Legs,4
+73,Deadlift,Kettlebell,Compound,Push,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Back,2
+74,Calf Raise,Machine,Compound,Push,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Legs,4
+75,Preacher Curl,Barbell,Single,Push,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Biceps,1
+76,Close-Grip Bench Press,Barbell,Compound,Pull,Prepare by adjusting equipment for Close-Grip Bench Press.,Execute the movement with proper form for Close-Grip Bench Press.,Triceps,5
+77,Hanging Knee Raise,Resistance Band,Single,Push,Prepare by adjusting equipment for Hanging Knee Raise.,Execute the movement with proper form for Hanging Knee Raise.,Abs,4
+78,Plank,Bodyweight,Single,Push,Prepare by adjusting equipment for Plank.,Execute the movement with proper form for Plank.,Abs,1
+79,Overhead Press,Resistance Band,Compound,Push,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Shoulder,5
+80,Bench Press,Kettlebell,Compound,Pull,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Chest,5
+81,Seated Cable Row,Barbell,Single,Push,Prepare by adjusting equipment for Seated Cable Row.,Execute the movement with proper form for Seated Cable Row.,Back,2
+82,Bench Press,Resistance Band,Compound,Push,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Chest,1
+83,Barbell Curl,Barbell,Single,Pull,Prepare by adjusting equipment for Barbell Curl.,Execute the movement with proper form for Barbell Curl.,Biceps,5
+84,Calf Raise,Barbell,Compound,Pull,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Legs,1
+85,Ab Rollout,Resistance Band,Compound,Pull,Prepare by adjusting equipment for Ab Rollout.,Execute the movement with proper form for Ab Rollout.,Abs,1
+86,Romanian Deadlift,Cable,Single,Pull,Prepare by adjusting equipment for Romanian Deadlift.,Execute the movement with proper form for Romanian Deadlift.,Legs,3
+87,Seated Cable Row,Barbell,Compound,Push,Prepare by adjusting equipment for Seated Cable Row.,Execute the movement with proper form for Seated Cable Row.,Back,5
+88,Face Pull,Dumbbell,Compound,Push,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Shoulder,1
+89,Crunches,Resistance Band,Single,Push,Prepare by adjusting equipment for Crunches.,Execute the movement with proper form for Crunches.,Abs,3
+90,Cable Crossover,Bodyweight,Compound,Push,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Chest,1
+91,Bench Press,Cable,Compound,Push,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Chest,4
+92,Calf Raise,Barbell,Compound,Pull,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Legs,2
+93,Hammer Curl,Kettlebell,Compound,Push,Prepare by adjusting equipment for Hammer Curl.,Execute the movement with proper form for Hammer Curl.,Biceps,3
+94,Front Raise,Machine,Compound,Pull,Prepare by adjusting equipment for Front Raise.,Execute the movement with proper form for Front Raise.,Shoulder,3
+95,Leg Press,Bodyweight,Single,Pull,Prepare by adjusting equipment for Leg Press.,Execute the movement with proper form for Leg Press.,Legs,2
+96,Plank,Cable,Compound,Pull,Prepare by adjusting equipment for Plank.,Execute the movement with proper form for Plank.,Abs,1
+97,Incline Dumbbell Press,Barbell,Single,Pull,Prepare by adjusting equipment for Incline Dumbbell Press.,Execute the movement with proper form for Incline Dumbbell Press.,Chest,4
+98,Russian Twist,Machine,Compound,Push,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,4
+99,Lateral Raise,Barbell,Compound,Push,Prepare by adjusting equipment for Lateral Raise.,Execute the movement with proper form for Lateral Raise.,Shoulder,5
+100,Front Raise,Resistance Band,Compound,Push,Prepare by adjusting equipment for Front Raise.,Execute the movement with proper form for Front Raise.,Shoulder,5
+101,Face Pull,Cable,Single,Pull,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Shoulder,3
+102,Skull Crushers,Cable,Single,Push,Prepare by adjusting equipment for Skull Crushers.,Execute the movement with proper form for Skull Crushers.,Triceps,2
+103,Skull Crushers,Dumbbell,Single,Push,Prepare by adjusting equipment for Skull Crushers.,Execute the movement with proper form for Skull Crushers.,Triceps,2
+104,Lat Pulldown,Machine,Single,Push,Prepare by adjusting equipment for Lat Pulldown.,Execute the movement with proper form for Lat Pulldown.,Back,5
+105,Russian Twist,Resistance Band,Single,Pull,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,2
+106,Plank,Dumbbell,Single,Push,Prepare by adjusting equipment for Plank.,Execute the movement with proper form for Plank.,Abs,1
+107,Hammer Curl,Cable,Single,Push,Prepare by adjusting equipment for Hammer Curl.,Execute the movement with proper form for Hammer Curl.,Biceps,4
+108,Calf Raise,Kettlebell,Single,Push,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Legs,5
+109,Upright Row,Cable,Single,Push,Prepare by adjusting equipment for Upright Row.,Execute the movement with proper form for Upright Row.,Shoulder,4
+110,Barbell Curl,Dumbbell,Single,Pull,Prepare by adjusting equipment for Barbell Curl.,Execute the movement with proper form for Barbell Curl.,Biceps,3
+111,Arnold Press,Machine,Single,Push,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,4
+112,Lateral Raise,Resistance Band,Compound,Push,Prepare by adjusting equipment for Lateral Raise.,Execute the movement with proper form for Lateral Raise.,Shoulder,1
+113,Face Pull,Dumbbell,Single,Push,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Shoulder,4
+114,Hammer Curl,Kettlebell,Single,Pull,Prepare by adjusting equipment for Hammer Curl.,Execute the movement with proper form for Hammer Curl.,Biceps,5
+115,Pull-Up,Machine,Single,Push,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Back,1
+116,Close-Grip Bench Press,Dumbbell,Single,Pull,Prepare by adjusting equipment for Close-Grip Bench Press.,Execute the movement with proper form for Close-Grip Bench Press.,Triceps,3
+117,Crunches,Kettlebell,Compound,Pull,Prepare by adjusting equipment for Crunches.,Execute the movement with proper form for Crunches.,Abs,4
+118,Arnold Press,Bodyweight,Single,Pull,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,4
+119,Lateral Raise,Bodyweight,Single,Push,Prepare by adjusting equipment for Lateral Raise.,Execute the movement with proper form for Lateral Raise.,Shoulder,2
+120,Cable Curl,Resistance Band,Compound,Pull,Prepare by adjusting equipment for Cable Curl.,Execute the movement with proper form for Cable Curl.,Biceps,4
+121,Hammer Curl,Resistance Band,Compound,Push,Prepare by adjusting equipment for Hammer Curl.,Execute the movement with proper form for Hammer Curl.,Biceps,2
+122,Incline Dumbbell Press,Resistance Band,Single,Pull,Prepare by adjusting equipment for Incline Dumbbell Press.,Execute the movement with proper form for Incline Dumbbell Press.,Chest,1
+123,Ab Rollout,Resistance Band,Compound,Pull,Prepare by adjusting equipment for Ab Rollout.,Execute the movement with proper form for Ab Rollout.,Abs,5
+124,Dips,Kettlebell,Single,Push,Prepare by adjusting equipment for Dips.,Execute the movement with proper form for Dips.,Chest,1
+125,Overhead Triceps Extension,Kettlebell,Single,Pull,Prepare by adjusting equipment for Overhead Triceps Extension.,Execute the movement with proper form for Overhead Triceps Extension.,Triceps,2
+126,Hanging Knee Raise,Barbell,Compound,Pull,Prepare by adjusting equipment for Hanging Knee Raise.,Execute the movement with proper form for Hanging Knee Raise.,Abs,5
+127,Cable Curl,Bodyweight,Compound,Push,Prepare by adjusting equipment for Cable Curl.,Execute the movement with proper form for Cable Curl.,Biceps,1
+128,Lunges,Resistance Band,Compound,Pull,Prepare by adjusting equipment for Lunges.,Execute the movement with proper form for Lunges.,Legs,3
+129,Seated Cable Row,Dumbbell,Compound,Push,Prepare by adjusting equipment for Seated Cable Row.,Execute the movement with proper form for Seated Cable Row.,Back,1
+130,Chest Fly,Kettlebell,Single,Pull,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Chest,2
+131,Preacher Curl,Resistance Band,Single,Push,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Biceps,2
+132,Leg Curl,Kettlebell,Single,Pull,Prepare by adjusting equipment for Leg Curl.,Execute the movement with proper form for Leg Curl.,Legs,1
+133,Lunges,Cable,Compound,Pull,Prepare by adjusting equipment for Lunges.,Execute the movement with proper form for Lunges.,Legs,2
+134,Seated Cable Row,Resistance Band,Single,Push,Prepare by adjusting equipment for Seated Cable Row.,Execute the movement with proper form for Seated Cable Row.,Back,3
+135,Dumbbell Curl,Kettlebell,Compound,Push,Prepare by adjusting equipment for Dumbbell Curl.,Execute the movement with proper form for Dumbbell Curl.,Biceps,1
+136,Bent-Over Row,Kettlebell,Single,Push,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Back,3
+137,Squat,Cable,Compound,Push,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Legs,2
+138,Lunges,Cable,Single,Push,Prepare by adjusting equipment for Lunges.,Execute the movement with proper form for Lunges.,Legs,4
+139,Bench Press,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Chest,2
+140,Deadlift,Barbell,Single,Push,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Back,3
+141,Cable Curl,Machine,Compound,Pull,Prepare by adjusting equipment for Cable Curl.,Execute the movement with proper form for Cable Curl.,Biceps,4
+142,Crunches,Machine,Single,Push,Prepare by adjusting equipment for Crunches.,Execute the movement with proper form for Crunches.,Abs,5
+143,Leg Press,Cable,Compound,Pull,Prepare by adjusting equipment for Leg Press.,Execute the movement with proper form for Leg Press.,Legs,5
+144,Dips,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Dips.,Execute the movement with proper form for Dips.,Chest,3
+145,Deadlift,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Back,1
+146,Dips,Kettlebell,Compound,Push,Prepare by adjusting equipment for Dips.,Execute the movement with proper form for Dips.,Chest,5
+147,Bent-Over Row,Bodyweight,Single,Pull,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Back,5
+148,Preacher Curl,Dumbbell,Single,Pull,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Biceps,2
+149,Close-Grip Bench Press,Machine,Compound,Push,Prepare by adjusting equipment for Close-Grip Bench Press.,Execute the movement with proper form for Close-Grip Bench Press.,Triceps,2
+150,Leg Raises,Resistance Band,Single,Pull,Prepare by adjusting equipment for Leg Raises.,Execute the movement with proper form for Leg Raises.,Abs,4
+151,Face Pull,Cable,Single,Pull,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Shoulder,4
+152,Upright Row,Kettlebell,Compound,Pull,Prepare by adjusting equipment for Upright Row.,Execute the movement with proper form for Upright Row.,Shoulder,4
+153,T-Bar Row,Machine,Single,Push,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Back,1
+154,Plank,Cable,Single,Push,Prepare by adjusting equipment for Plank.,Execute the movement with proper form for Plank.,Abs,2
+155,Triceps Pushdown,Machine,Single,Push,Prepare by adjusting equipment for Triceps Pushdown.,Execute the movement with proper form for Triceps Pushdown.,Triceps,1
+156,Lunges,Dumbbell,Compound,Push,Prepare by adjusting equipment for Lunges.,Execute the movement with proper form for Lunges.,Legs,3
+157,Triceps Pushdown,Kettlebell,Single,Pull,Prepare by adjusting equipment for Triceps Pushdown.,Execute the movement with proper form for Triceps Pushdown.,Triceps,3
+158,Preacher Curl,Bodyweight,Single,Pull,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Biceps,3
+159,Push-Up,Dumbbell,Single,Pull,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Chest,4
+160,Arnold Press,Dumbbell,Single,Push,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,2
+161,Ab Rollout,Resistance Band,Single,Push,Prepare by adjusting equipment for Ab Rollout.,Execute the movement with proper form for Ab Rollout.,Abs,2
+162,Calf Raise,Kettlebell,Compound,Pull,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Legs,3
+163,Plank,Resistance Band,Single,Push,Prepare by adjusting equipment for Plank.,Execute the movement with proper form for Plank.,Abs,5
+164,Barbell Curl,Kettlebell,Compound,Push,Prepare by adjusting equipment for Barbell Curl.,Execute the movement with proper form for Barbell Curl.,Biceps,2
+165,Pull-Up,Resistance Band,Compound,Push,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Back,4
+166,Push-Up,Resistance Band,Single,Push,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Chest,2
+167,Plank,Barbell,Compound,Push,Prepare by adjusting equipment for Plank.,Execute the movement with proper form for Plank.,Abs,3
+168,Triceps Dips,Dumbbell,Compound,Push,Prepare by adjusting equipment for Triceps Dips.,Execute the movement with proper form for Triceps Dips.,Triceps,3
+169,Bench Press,Cable,Single,Push,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Chest,4
+170,T-Bar Row,Bodyweight,Single,Push,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Back,2
+171,Overhead Press,Machine,Single,Push,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Shoulder,4
+172,Incline Dumbbell Press,Barbell,Single,Pull,Prepare by adjusting equipment for Incline Dumbbell Press.,Execute the movement with proper form for Incline Dumbbell Press.,Chest,1
+173,Overhead Triceps Extension,Resistance Band,Single,Pull,Prepare by adjusting equipment for Overhead Triceps Extension.,Execute the movement with proper form for Overhead Triceps Extension.,Triceps,4
+174,Leg Raises,Cable,Single,Push,Prepare by adjusting equipment for Leg Raises.,Execute the movement with proper form for Leg Raises.,Abs,4
+175,Leg Raises,Dumbbell,Single,Pull,Prepare by adjusting equipment for Leg Raises.,Execute the movement with proper form for Leg Raises.,Abs,2
+176,Ab Rollout,Resistance Band,Single,Pull,Prepare by adjusting equipment for Ab Rollout.,Execute the movement with proper form for Ab Rollout.,Abs,5
+177,Push-Up,Resistance Band,Compound,Push,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Chest,5
+178,T-Bar Row,Dumbbell,Compound,Pull,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Back,4
+179,Arnold Press,Barbell,Single,Pull,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,3
+180,Cable Crossover,Kettlebell,Single,Pull,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Chest,1
+181,Ab Rollout,Machine,Compound,Push,Prepare by adjusting equipment for Ab Rollout.,Execute the movement with proper form for Ab Rollout.,Abs,1
+182,Russian Twist,Barbell,Compound,Push,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,4
+183,Front Raise,Dumbbell,Compound,Push,Prepare by adjusting equipment for Front Raise.,Execute the movement with proper form for Front Raise.,Shoulder,4
+184,Chest Fly,Cable,Single,Pull,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Chest,2
+185,T-Bar Row,Dumbbell,Single,Push,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Back,3
+186,Pull-Up,Resistance Band,Single,Pull,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Back,3
+187,Hanging Knee Raise,Resistance Band,Single,Pull,Prepare by adjusting equipment for Hanging Knee Raise.,Execute the movement with proper form for Hanging Knee Raise.,Abs,2
+188,Lat Pulldown,Barbell,Compound,Push,Prepare by adjusting equipment for Lat Pulldown.,Execute the movement with proper form for Lat Pulldown.,Back,2
+189,Pull-Up,Barbell,Compound,Push,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Back,5
+190,Barbell Curl,Bodyweight,Single,Pull,Prepare by adjusting equipment for Barbell Curl.,Execute the movement with proper form for Barbell Curl.,Biceps,5
+191,Cable Crossover,Resistance Band,Single,Push,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Chest,5
+192,Overhead Press,Dumbbell,Single,Push,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Shoulder,1
+193,Leg Curl,Machine,Single,Pull,Prepare by adjusting equipment for Leg Curl.,Execute the movement with proper form for Leg Curl.,Legs,2
+194,Ab Rollout,Barbell,Compound,Pull,Prepare by adjusting equipment for Ab Rollout.,Execute the movement with proper form for Ab Rollout.,Abs,5
+195,Dumbbell Curl,Resistance Band,Single,Pull,Prepare by adjusting equipment for Dumbbell Curl.,Execute the movement with proper form for Dumbbell Curl.,Biceps,2
+196,Incline Dumbbell Press,Dumbbell,Single,Pull,Prepare by adjusting equipment for Incline Dumbbell Press.,Execute the movement with proper form for Incline Dumbbell Press.,Chest,2
+197,Leg Press,Barbell,Compound,Pull,Prepare by adjusting equipment for Leg Press.,Execute the movement with proper form for Leg Press.,Legs,5
+198,Chest Fly,Bodyweight,Compound,Push,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Chest,1
+199,Push-Up,Machine,Compound,Push,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Chest,5
+200,Leg Curl,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Leg Curl.,Execute the movement with proper form for Leg Curl.,Legs,4
+201,Cable Curl,Machine,Single,Pull,Prepare by adjusting equipment for Cable Curl.,Execute the movement with proper form for Cable Curl.,Biceps,2
+202,Upright Row,Resistance Band,Compound,Push,Prepare by adjusting equipment for Upright Row.,Execute the movement with proper form for Upright Row.,Shoulder,1
+203,Skull Crushers,Kettlebell,Single,Push,Prepare by adjusting equipment for Skull Crushers.,Execute the movement with proper form for Skull Crushers.,Triceps,3
+204,Overhead Triceps Extension,Barbell,Compound,Push,Prepare by adjusting equipment for Overhead Triceps Extension.,Execute the movement with proper form for Overhead Triceps Extension.,Triceps,4
+205,Triceps Pushdown,Bodyweight,Single,Push,Prepare by adjusting equipment for Triceps Pushdown.,Execute the movement with proper form for Triceps Pushdown.,Triceps,1
+206,Close-Grip Bench Press,Cable,Compound,Push,Prepare by adjusting equipment for Close-Grip Bench Press.,Execute the movement with proper form for Close-Grip Bench Press.,Triceps,4
+207,Cable Crossover,Dumbbell,Compound,Push,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Chest,1
+208,Triceps Dips,Resistance Band,Single,Push,Prepare by adjusting equipment for Triceps Dips.,Execute the movement with proper form for Triceps Dips.,Triceps,3
+209,Leg Raises,Dumbbell,Single,Push,Prepare by adjusting equipment for Leg Raises.,Execute the movement with proper form for Leg Raises.,Abs,2
+210,Overhead Press,Bodyweight,Compound,Push,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Shoulder,1
+211,Calf Raise,Resistance Band,Single,Push,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Legs,2
+212,Overhead Press,Barbell,Compound,Pull,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Shoulder,4
+213,Dips,Bodyweight,Single,Pull,Prepare by adjusting equipment for Dips.,Execute the movement with proper form for Dips.,Chest,4
+214,Russian Twist,Cable,Compound,Push,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,1
+215,Leg Press,Resistance Band,Compound,Pull,Prepare by adjusting equipment for Leg Press.,Execute the movement with proper form for Leg Press.,Legs,2
+216,Skull Crushers,Resistance Band,Compound,Pull,Prepare by adjusting equipment for Skull Crushers.,Execute the movement with proper form for Skull Crushers.,Triceps,5
+217,Bench Press,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Chest,1
+218,Push-Up,Cable,Compound,Push,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Chest,5
+219,Arnold Press,Resistance Band,Single,Pull,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,5
+220,Seated Cable Row,Bodyweight,Single,Pull,Prepare by adjusting equipment for Seated Cable Row.,Execute the movement with proper form for Seated Cable Row.,Back,4
+221,Leg Press,Bodyweight,Single,Pull,Prepare by adjusting equipment for Leg Press.,Execute the movement with proper form for Leg Press.,Legs,4
+222,Preacher Curl,Cable,Compound,Pull,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Biceps,4
+223,Barbell Curl,Barbell,Compound,Pull,Prepare by adjusting equipment for Barbell Curl.,Execute the movement with proper form for Barbell Curl.,Biceps,3
+224,Front Raise,Barbell,Single,Pull,Prepare by adjusting equipment for Front Raise.,Execute the movement with proper form for Front Raise.,Shoulder,3
+225,Ab Rollout,Machine,Compound,Pull,Prepare by adjusting equipment for Ab Rollout.,Execute the movement with proper form for Ab Rollout.,Abs,1
+226,Ab Rollout,Cable,Compound,Push,Prepare by adjusting equipment for Ab Rollout.,Execute the movement with proper form for Ab Rollout.,Abs,4
+227,Upright Row,Kettlebell,Single,Pull,Prepare by adjusting equipment for Upright Row.,Execute the movement with proper form for Upright Row.,Shoulder,5
+228,Lat Pulldown,Kettlebell,Compound,Push,Prepare by adjusting equipment for Lat Pulldown.,Execute the movement with proper form for Lat Pulldown.,Back,1
+229,Overhead Triceps Extension,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Overhead Triceps Extension.,Execute the movement with proper form for Overhead Triceps Extension.,Triceps,5
+230,Squat,Dumbbell,Single,Pull,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Legs,2
+231,Close-Grip Bench Press,Dumbbell,Compound,Push,Prepare by adjusting equipment for Close-Grip Bench Press.,Execute the movement with proper form for Close-Grip Bench Press.,Triceps,5
+232,Crunches,Machine,Compound,Push,Prepare by adjusting equipment for Crunches.,Execute the movement with proper form for Crunches.,Abs,5
+233,Barbell Curl,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Barbell Curl.,Execute the movement with proper form for Barbell Curl.,Biceps,5
+234,Skull Crushers,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Skull Crushers.,Execute the movement with proper form for Skull Crushers.,Triceps,1
+235,Cable Crossover,Cable,Compound,Pull,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Chest,4
+236,Squat,Barbell,Single,Pull,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Legs,2
+237,Incline Dumbbell Press,Barbell,Compound,Pull,Prepare by adjusting equipment for Incline Dumbbell Press.,Execute the movement with proper form for Incline Dumbbell Press.,Chest,3
+238,Push-Up,Barbell,Compound,Pull,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Chest,5
+239,Overhead Press,Barbell,Single,Pull,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Shoulder,1
+240,Front Raise,Kettlebell,Single,Push,Prepare by adjusting equipment for Front Raise.,Execute the movement with proper form for Front Raise.,Shoulder,4
+241,Russian Twist,Barbell,Compound,Push,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,3
+242,Barbell Curl,Dumbbell,Single,Pull,Prepare by adjusting equipment for Barbell Curl.,Execute the movement with proper form for Barbell Curl.,Biceps,5
+243,Squat,Dumbbell,Compound,Push,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Legs,5
+244,Lat Pulldown,Bodyweight,Single,Pull,Prepare by adjusting equipment for Lat Pulldown.,Execute the movement with proper form for Lat Pulldown.,Back,5
+245,Chest Fly,Barbell,Compound,Push,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Chest,5
+246,Leg Press,Resistance Band,Compound,Push,Prepare by adjusting equipment for Leg Press.,Execute the movement with proper form for Leg Press.,Legs,4
+247,Lateral Raise,Barbell,Single,Pull,Prepare by adjusting equipment for Lateral Raise.,Execute the movement with proper form for Lateral Raise.,Shoulder,3
+248,Lat Pulldown,Dumbbell,Single,Push,Prepare by adjusting equipment for Lat Pulldown.,Execute the movement with proper form for Lat Pulldown.,Back,2
+249,Upright Row,Cable,Single,Push,Prepare by adjusting equipment for Upright Row.,Execute the movement with proper form for Upright Row.,Shoulder,3
+250,Upright Row,Machine,Compound,Pull,Prepare by adjusting equipment for Upright Row.,Execute the movement with proper form for Upright Row.,Shoulder,3
+251,Triceps Dips,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Triceps Dips.,Execute the movement with proper form for Triceps Dips.,Triceps,2
+252,Chest Fly,Machine,Single,Push,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Chest,3
+253,Romanian Deadlift,Dumbbell,Single,Push,Prepare by adjusting equipment for Romanian Deadlift.,Execute the movement with proper form for Romanian Deadlift.,Legs,5
+254,Russian Twist,Barbell,Single,Push,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,5
+255,Crunches,Bodyweight,Single,Pull,Prepare by adjusting equipment for Crunches.,Execute the movement with proper form for Crunches.,Abs,1
+256,Pull-Up,Cable,Compound,Push,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Back,3
+257,Push-Up,Cable,Single,Push,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Chest,3
+258,Seated Cable Row,Barbell,Compound,Push,Prepare by adjusting equipment for Seated Cable Row.,Execute the movement with proper form for Seated Cable Row.,Back,4
+259,Leg Curl,Cable,Single,Pull,Prepare by adjusting equipment for Leg Curl.,Execute the movement with proper form for Leg Curl.,Legs,2
+260,Cable Crossover,Cable,Compound,Push,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Chest,4
+261,Skull Crushers,Machine,Single,Push,Prepare by adjusting equipment for Skull Crushers.,Execute the movement with proper form for Skull Crushers.,Triceps,4
+262,Lateral Raise,Resistance Band,Single,Push,Prepare by adjusting equipment for Lateral Raise.,Execute the movement with proper form for Lateral Raise.,Shoulder,4
+263,Squat,Machine,Compound,Pull,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Legs,1
+264,Close-Grip Bench Press,Resistance Band,Single,Pull,Prepare by adjusting equipment for Close-Grip Bench Press.,Execute the movement with proper form for Close-Grip Bench Press.,Triceps,5
+265,Plank,Machine,Single,Pull,Prepare by adjusting equipment for Plank.,Execute the movement with proper form for Plank.,Abs,1
+266,Seated Cable Row,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Seated Cable Row.,Execute the movement with proper form for Seated Cable Row.,Back,4
+267,Leg Curl,Resistance Band,Compound,Push,Prepare by adjusting equipment for Leg Curl.,Execute the movement with proper form for Leg Curl.,Legs,4
+268,Incline Dumbbell Press,Bodyweight,Single,Push,Prepare by adjusting equipment for Incline Dumbbell Press.,Execute the movement with proper form for Incline Dumbbell Press.,Chest,2
+269,Chest Fly,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Chest,3
+270,Bent-Over Row,Resistance Band,Single,Push,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Back,5
+271,Bent-Over Row,Cable,Compound,Push,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Back,3
+272,Russian Twist,Bodyweight,Single,Push,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,3
+273,T-Bar Row,Dumbbell,Single,Pull,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Back,2
+274,Triceps Pushdown,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Triceps Pushdown.,Execute the movement with proper form for Triceps Pushdown.,Triceps,1
+275,Preacher Curl,Bodyweight,Compound,Push,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Biceps,2
+276,Crunches,Cable,Compound,Pull,Prepare by adjusting equipment for Crunches.,Execute the movement with proper form for Crunches.,Abs,4
+277,Overhead Triceps Extension,Cable,Single,Pull,Prepare by adjusting equipment for Overhead Triceps Extension.,Execute the movement with proper form for Overhead Triceps Extension.,Triceps,5
+278,Leg Raises,Machine,Single,Push,Prepare by adjusting equipment for Leg Raises.,Execute the movement with proper form for Leg Raises.,Abs,4
+279,Cable Curl,Bodyweight,Single,Pull,Prepare by adjusting equipment for Cable Curl.,Execute the movement with proper form for Cable Curl.,Biceps,5
+280,Face Pull,Cable,Compound,Push,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Shoulder,3
+281,Bench Press,Barbell,Single,Pull,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Chest,5
+282,Pull-Up,Machine,Single,Pull,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Back,3
+283,Leg Curl,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Leg Curl.,Execute the movement with proper form for Leg Curl.,Legs,2
+284,Triceps Pushdown,Cable,Compound,Pull,Prepare by adjusting equipment for Triceps Pushdown.,Execute the movement with proper form for Triceps Pushdown.,Triceps,2
+285,Romanian Deadlift,Dumbbell,Single,Push,Prepare by adjusting equipment for Romanian Deadlift.,Execute the movement with proper form for Romanian Deadlift.,Legs,2
+286,Face Pull,Kettlebell,Compound,Push,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Shoulder,1
+287,Push-Up,Cable,Single,Pull,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Chest,2
+288,Dumbbell Curl,Resistance Band,Compound,Push,Prepare by adjusting equipment for Dumbbell Curl.,Execute the movement with proper form for Dumbbell Curl.,Biceps,3
+289,Deadlift,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Back,4
+290,Dumbbell Curl,Machine,Single,Pull,Prepare by adjusting equipment for Dumbbell Curl.,Execute the movement with proper form for Dumbbell Curl.,Biceps,1
+291,Lateral Raise,Barbell,Single,Push,Prepare by adjusting equipment for Lateral Raise.,Execute the movement with proper form for Lateral Raise.,Shoulder,4
+292,Romanian Deadlift,Bodyweight,Compound,Push,Prepare by adjusting equipment for Romanian Deadlift.,Execute the movement with proper form for Romanian Deadlift.,Legs,4
+293,Romanian Deadlift,Kettlebell,Single,Push,Prepare by adjusting equipment for Romanian Deadlift.,Execute the movement with proper form for Romanian Deadlift.,Legs,5
+294,Lat Pulldown,Machine,Compound,Push,Prepare by adjusting equipment for Lat Pulldown.,Execute the movement with proper form for Lat Pulldown.,Back,4
+295,Arnold Press,Machine,Compound,Pull,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,2
+296,Bent-Over Row,Cable,Single,Push,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Back,4
+297,Preacher Curl,Bodyweight,Single,Push,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Biceps,1
+298,Barbell Curl,Kettlebell,Compound,Push,Prepare by adjusting equipment for Barbell Curl.,Execute the movement with proper form for Barbell Curl.,Biceps,4
+299,Overhead Triceps Extension,Bodyweight,Single,Push,Prepare by adjusting equipment for Overhead Triceps Extension.,Execute the movement with proper form for Overhead Triceps Extension.,Triceps,3
+300,Pull-Up,Machine,Compound,Pull,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Back,5
+301,Lat Pulldown,Resistance Band,Single,Push,Prepare by adjusting equipment for Lat Pulldown.,Execute the movement with proper form for Lat Pulldown.,Back,1
+302,Deadlift,Barbell,Compound,Push,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Back,5
+303,Cable Crossover,Barbell,Single,Push,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Chest,1
+304,Chest Fly,Machine,Single,Push,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Chest,5
+305,Upright Row,Barbell,Single,Push,Prepare by adjusting equipment for Upright Row.,Execute the movement with proper form for Upright Row.,Shoulder,4
+306,T-Bar Row,Barbell,Compound,Pull,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Back,4
+307,Plank,Barbell,Compound,Pull,Prepare by adjusting equipment for Plank.,Execute the movement with proper form for Plank.,Abs,4
+308,Incline Dumbbell Press,Bodyweight,Single,Pull,Prepare by adjusting equipment for Incline Dumbbell Press.,Execute the movement with proper form for Incline Dumbbell Press.,Chest,2
+309,T-Bar Row,Bodyweight,Compound,Pull,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Back,5
+310,Dips,Resistance Band,Compound,Push,Prepare by adjusting equipment for Dips.,Execute the movement with proper form for Dips.,Chest,5
+311,Cable Crossover,Kettlebell,Single,Push,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Chest,3
+312,Ab Rollout,Dumbbell,Single,Push,Prepare by adjusting equipment for Ab Rollout.,Execute the movement with proper form for Ab Rollout.,Abs,5
+313,Hanging Knee Raise,Kettlebell,Single,Pull,Prepare by adjusting equipment for Hanging Knee Raise.,Execute the movement with proper form for Hanging Knee Raise.,Abs,4
+314,Dips,Barbell,Single,Pull,Prepare by adjusting equipment for Dips.,Execute the movement with proper form for Dips.,Chest,1
+315,Barbell Curl,Cable,Single,Push,Prepare by adjusting equipment for Barbell Curl.,Execute the movement with proper form for Barbell Curl.,Biceps,2
+316,Preacher Curl,Cable,Single,Push,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Biceps,1
+317,Deadlift,Kettlebell,Single,Pull,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Back,5
+318,Leg Raises,Machine,Compound,Pull,Prepare by adjusting equipment for Leg Raises.,Execute the movement with proper form for Leg Raises.,Abs,2
+319,Arnold Press,Dumbbell,Compound,Push,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,4
+320,Plank,Barbell,Single,Pull,Prepare by adjusting equipment for Plank.,Execute the movement with proper form for Plank.,Abs,4
+321,Front Raise,Bodyweight,Compound,Push,Prepare by adjusting equipment for Front Raise.,Execute the movement with proper form for Front Raise.,Shoulder,1
+322,Face Pull,Machine,Compound,Push,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Shoulder,4
+323,Barbell Curl,Bodyweight,Single,Push,Prepare by adjusting equipment for Barbell Curl.,Execute the movement with proper form for Barbell Curl.,Biceps,2
+324,Russian Twist,Kettlebell,Single,Pull,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,1
+325,Dumbbell Curl,Cable,Compound,Push,Prepare by adjusting equipment for Dumbbell Curl.,Execute the movement with proper form for Dumbbell Curl.,Biceps,4
+326,Overhead Triceps Extension,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Overhead Triceps Extension.,Execute the movement with proper form for Overhead Triceps Extension.,Triceps,4
+327,Leg Press,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Leg Press.,Execute the movement with proper form for Leg Press.,Legs,4
+328,Lunges,Kettlebell,Compound,Push,Prepare by adjusting equipment for Lunges.,Execute the movement with proper form for Lunges.,Legs,5
+329,Seated Cable Row,Dumbbell,Compound,Push,Prepare by adjusting equipment for Seated Cable Row.,Execute the movement with proper form for Seated Cable Row.,Back,3
+330,Dips,Machine,Compound,Pull,Prepare by adjusting equipment for Dips.,Execute the movement with proper form for Dips.,Chest,4
+331,Cable Curl,Resistance Band,Single,Push,Prepare by adjusting equipment for Cable Curl.,Execute the movement with proper form for Cable Curl.,Biceps,3
+332,Leg Raises,Barbell,Single,Push,Prepare by adjusting equipment for Leg Raises.,Execute the movement with proper form for Leg Raises.,Abs,1
+333,Crunches,Cable,Single,Push,Prepare by adjusting equipment for Crunches.,Execute the movement with proper form for Crunches.,Abs,5
+334,Deadlift,Resistance Band,Compound,Push,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Back,4
+335,Overhead Triceps Extension,Machine,Compound,Pull,Prepare by adjusting equipment for Overhead Triceps Extension.,Execute the movement with proper form for Overhead Triceps Extension.,Triceps,3
+336,Dumbbell Curl,Barbell,Compound,Push,Prepare by adjusting equipment for Dumbbell Curl.,Execute the movement with proper form for Dumbbell Curl.,Biceps,2
+337,Hanging Knee Raise,Dumbbell,Compound,Push,Prepare by adjusting equipment for Hanging Knee Raise.,Execute the movement with proper form for Hanging Knee Raise.,Abs,3
+338,Leg Curl,Cable,Compound,Push,Prepare by adjusting equipment for Leg Curl.,Execute the movement with proper form for Leg Curl.,Legs,2
+339,Triceps Pushdown,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Triceps Pushdown.,Execute the movement with proper form for Triceps Pushdown.,Triceps,5
+340,Triceps Pushdown,Barbell,Single,Pull,Prepare by adjusting equipment for Triceps Pushdown.,Execute the movement with proper form for Triceps Pushdown.,Triceps,2
+341,Chest Fly,Dumbbell,Single,Pull,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Chest,3
+342,Bench Press,Kettlebell,Single,Pull,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Chest,1
+343,Hanging Knee Raise,Dumbbell,Compound,Push,Prepare by adjusting equipment for Hanging Knee Raise.,Execute the movement with proper form for Hanging Knee Raise.,Abs,5
+344,Lunges,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Lunges.,Execute the movement with proper form for Lunges.,Legs,3
+345,Squat,Barbell,Single,Push,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Legs,2
+346,Upright Row,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Upright Row.,Execute the movement with proper form for Upright Row.,Shoulder,1
+347,Deadlift,Cable,Single,Push,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Back,1
+348,Dumbbell Curl,Kettlebell,Single,Push,Prepare by adjusting equipment for Dumbbell Curl.,Execute the movement with proper form for Dumbbell Curl.,Biceps,1
+349,Triceps Dips,Barbell,Single,Push,Prepare by adjusting equipment for Triceps Dips.,Execute the movement with proper form for Triceps Dips.,Triceps,1
+350,Chest Fly,Bodyweight,Compound,Push,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Chest,2
+351,Leg Raises,Machine,Compound,Push,Prepare by adjusting equipment for Leg Raises.,Execute the movement with proper form for Leg Raises.,Abs,1
+352,Lateral Raise,Cable,Compound,Pull,Prepare by adjusting equipment for Lateral Raise.,Execute the movement with proper form for Lateral Raise.,Shoulder,2
+353,Upright Row,Kettlebell,Single,Push,Prepare by adjusting equipment for Upright Row.,Execute the movement with proper form for Upright Row.,Shoulder,4
+354,Lat Pulldown,Machine,Compound,Pull,Prepare by adjusting equipment for Lat Pulldown.,Execute the movement with proper form for Lat Pulldown.,Back,4
+355,Triceps Pushdown,Resistance Band,Single,Pull,Prepare by adjusting equipment for Triceps Pushdown.,Execute the movement with proper form for Triceps Pushdown.,Triceps,2
+356,Overhead Press,Resistance Band,Compound,Pull,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Shoulder,2
+357,Dumbbell Curl,Bodyweight,Single,Pull,Prepare by adjusting equipment for Dumbbell Curl.,Execute the movement with proper form for Dumbbell Curl.,Biceps,4
+358,T-Bar Row,Bodyweight,Compound,Push,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Back,5
+359,Squat,Dumbbell,Single,Pull,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Legs,3
+360,Russian Twist,Resistance Band,Compound,Pull,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,4
+361,Lateral Raise,Machine,Compound,Pull,Prepare by adjusting equipment for Lateral Raise.,Execute the movement with proper form for Lateral Raise.,Shoulder,3
+362,Lunges,Kettlebell,Single,Pull,Prepare by adjusting equipment for Lunges.,Execute the movement with proper form for Lunges.,Legs,5
+363,Incline Dumbbell Press,Resistance Band,Single,Push,Prepare by adjusting equipment for Incline Dumbbell Press.,Execute the movement with proper form for Incline Dumbbell Press.,Chest,2
+364,Hanging Knee Raise,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Hanging Knee Raise.,Execute the movement with proper form for Hanging Knee Raise.,Abs,5
+365,Leg Raises,Machine,Compound,Pull,Prepare by adjusting equipment for Leg Raises.,Execute the movement with proper form for Leg Raises.,Abs,5
+366,Overhead Press,Kettlebell,Single,Pull,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Shoulder,1
+367,Hanging Knee Raise,Barbell,Compound,Pull,Prepare by adjusting equipment for Hanging Knee Raise.,Execute the movement with proper form for Hanging Knee Raise.,Abs,2
+368,Dumbbell Curl,Resistance Band,Compound,Push,Prepare by adjusting equipment for Dumbbell Curl.,Execute the movement with proper form for Dumbbell Curl.,Biceps,2
+369,Skull Crushers,Cable,Single,Pull,Prepare by adjusting equipment for Skull Crushers.,Execute the movement with proper form for Skull Crushers.,Triceps,3
+370,Upright Row,Barbell,Compound,Push,Prepare by adjusting equipment for Upright Row.,Execute the movement with proper form for Upright Row.,Shoulder,3
+371,Hanging Knee Raise,Resistance Band,Compound,Push,Prepare by adjusting equipment for Hanging Knee Raise.,Execute the movement with proper form for Hanging Knee Raise.,Abs,3
+372,Hammer Curl,Bodyweight,Compound,Push,Prepare by adjusting equipment for Hammer Curl.,Execute the movement with proper form for Hammer Curl.,Biceps,2
+373,Face Pull,Dumbbell,Compound,Push,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Shoulder,5
+374,Arnold Press,Bodyweight,Single,Push,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,4
+375,Lateral Raise,Resistance Band,Compound,Pull,Prepare by adjusting equipment for Lateral Raise.,Execute the movement with proper form for Lateral Raise.,Shoulder,5
+376,Crunches,Machine,Compound,Push,Prepare by adjusting equipment for Crunches.,Execute the movement with proper form for Crunches.,Abs,1
+377,Crunches,Barbell,Compound,Pull,Prepare by adjusting equipment for Crunches.,Execute the movement with proper form for Crunches.,Abs,1
+378,Incline Dumbbell Press,Barbell,Single,Pull,Prepare by adjusting equipment for Incline Dumbbell Press.,Execute the movement with proper form for Incline Dumbbell Press.,Chest,2
+379,Push-Up,Dumbbell,Single,Push,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Chest,5
+380,Hammer Curl,Resistance Band,Compound,Pull,Prepare by adjusting equipment for Hammer Curl.,Execute the movement with proper form for Hammer Curl.,Biceps,5
+381,Leg Press,Resistance Band,Single,Pull,Prepare by adjusting equipment for Leg Press.,Execute the movement with proper form for Leg Press.,Legs,2
+382,Bent-Over Row,Bodyweight,Single,Pull,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Back,2
+383,Lat Pulldown,Kettlebell,Compound,Push,Prepare by adjusting equipment for Lat Pulldown.,Execute the movement with proper form for Lat Pulldown.,Back,2
+384,Ab Rollout,Kettlebell,Compound,Push,Prepare by adjusting equipment for Ab Rollout.,Execute the movement with proper form for Ab Rollout.,Abs,2
+385,Calf Raise,Cable,Compound,Push,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Legs,3
+386,Lunges,Bodyweight,Compound,Push,Prepare by adjusting equipment for Lunges.,Execute the movement with proper form for Lunges.,Legs,3
+387,Calf Raise,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Legs,5
+388,Bench Press,Barbell,Single,Hold,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Glutes,4
+389,Side Plank,Cable,Static,Twist,Prepare by adjusting equipment for Side Plank.,Execute the movement with proper form for Side Plank.,Shoulder,3
+390,Face Pull,Machine,Twist,Push,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Back,2
+391,Pull-Up,Kettlebell,Twist,Push,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Triceps,4
+392,Seated Row,Dumbbell,Compound,Hold,Prepare by adjusting equipment for Seated Row.,Execute the movement with proper form for Seated Row.,Glutes,2
+393,Hip Thrust,Bodyweight,Static,Pull,Prepare by adjusting equipment for Hip Thrust.,Execute the movement with proper form for Hip Thrust.,Glutes,2
+394,Side Plank,Medicine Ball,Static,Push,Prepare by adjusting equipment for Side Plank.,Execute the movement with proper form for Side Plank.,Shoulder,4
+395,Pistol Squat,Machine,Twist,Hold,Prepare by adjusting equipment for Pistol Squat.,Execute the movement with proper form for Pistol Squat.,Shoulder,3
+396,Hanging Leg Raise,Machine,Twist,Hold,Prepare by adjusting equipment for Hanging Leg Raise.,Execute the movement with proper form for Hanging Leg Raise.,Shoulder,4
+397,Preacher Curl,Barbell,Compound,Pull,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Core,3
+398,Arnold Press,Medicine Ball,Static,Pull,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Core,4
+399,Pull-Up,Cable,Static,Push,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Chest,1
+400,Cable Crossover,Kettlebell,Compound,Pull,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Triceps,3
+401,T-Bar Row,Machine,Static,Pull,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Abs,4
+402,Russian Twist,Machine,Static,Twist,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,2
+403,Hip Thrust,Resistance Band,Static,Hold,Prepare by adjusting equipment for Hip Thrust.,Execute the movement with proper form for Hip Thrust.,Back,1
+404,Cable Crossover,Kettlebell,Compound,Twist,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Biceps,2
+405,Preacher Curl,Dumbbell,Compound,Twist,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Glutes,4
+406,Russian Twist,Machine,Single,Twist,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Legs,3
+407,Leg Extension,Machine,Twist,Hold,Prepare by adjusting equipment for Leg Extension.,Execute the movement with proper form for Leg Extension.,Chest,3
+408,Push-Up,Medicine Ball,Compound,Twist,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Back,1
+409,Tricep Dip,Kettlebell,Compound,Hold,Prepare by adjusting equipment for Tricep Dip.,Execute the movement with proper form for Tricep Dip.,Legs,1
+410,Step-Up,Cable,Single,Pull,Prepare by adjusting equipment for Step-up.,Execute the movement with proper form for Step-up.,Legs,5
+411,Skullcrusher,Bodyweight,Single,Push,Prepare by adjusting equipment for Skullcrusher.,Execute the movement with proper form for Skullcrusher.,Back,3
+412,Leg Extension,Bodyweight,Compound,Push,Prepare by adjusting equipment for Leg Extension.,Execute the movement with proper form for Leg Extension.,Chest,5
+413,Hip Thrust,Kettlebell,Single,Push,Prepare by adjusting equipment for Hip Thrust.,Execute the movement with proper form for Hip Thrust.,Abs,3
+414,Squat,Machine,Twist,Push,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Glutes,3
+415,Farmer'S Walk,Barbell,Twist,Push,Prepare by adjusting equipment for Farmer's Walk.,Execute the movement with proper form for Farmer's Walk.,Chest,4
+416,Leg Extension,Resistance Band,Static,Pull,Prepare by adjusting equipment for Leg Extension.,Execute the movement with proper form for Leg Extension.,Chest,2
+417,Squat,Medicine Ball,Twist,Hold,Prepare by adjusting equipment for Squat.,Execute the movement with proper form for Squat.,Biceps,2
+418,Pistol Squat,Bodyweight,Single,Hold,Prepare by adjusting equipment for Pistol Squat.,Execute the movement with proper form for Pistol Squat.,Chest,4
+419,Overhead Press,Bodyweight,Single,Hold,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Abs,1
+420,Hanging Leg Raise,Barbell,Single,Twist,Prepare by adjusting equipment for Hanging Leg Raise.,Execute the movement with proper form for Hanging Leg Raise.,Triceps,3
+421,Bent-Over Row,Dumbbell,Twist,Twist,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Chest,1
+422,Sumo Deadlift,Barbell,Static,Twist,Prepare by adjusting equipment for Sumo Deadlift.,Execute the movement with proper form for Sumo Deadlift.,Shoulder,1
+423,Skullcrusher,Barbell,Static,Pull,Prepare by adjusting equipment for Skullcrusher.,Execute the movement with proper form for Skullcrusher.,Legs,5
+424,Good Morning,Resistance Band,Static,Push,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Triceps,1
+425,Tricep Dip,Dumbbell,Compound,Push,Prepare by adjusting equipment for Tricep Dip.,Execute the movement with proper form for Tricep Dip.,Shoulder,2
+426,Hip Thrust,Medicine Ball,Compound,Twist,Prepare by adjusting equipment for Hip Thrust.,Execute the movement with proper form for Hip Thrust.,Triceps,1
+427,Snatch,Resistance Band,Twist,Pull,Prepare by adjusting equipment for Snatch.,Execute the movement with proper form for Snatch.,Biceps,5
+428,Tricep Dip,Machine,Static,Hold,Prepare by adjusting equipment for Tricep Dip.,Execute the movement with proper form for Tricep Dip.,Back,1
+429,Arnold Press,Kettlebell,Static,Hold,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Back,2
+430,T-Bar Row,Resistance Band,Static,Hold,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Chest,1
+431,Seated Row,Barbell,Twist,Hold,Prepare by adjusting equipment for Seated Row.,Execute the movement with proper form for Seated Row.,Triceps,1
+432,Overhead Press,Bodyweight,Twist,Pull,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Core,5
+433,Bent-Over Row,Medicine Ball,Static,Pull,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Legs,1
+434,Sumo Deadlift,Barbell,Compound,Pull,Prepare by adjusting equipment for Sumo Deadlift.,Execute the movement with proper form for Sumo Deadlift.,Shoulder,3
+435,Step-Up,Medicine Ball,Compound,Push,Prepare by adjusting equipment for Step-up.,Execute the movement with proper form for Step-up.,Triceps,3
+436,Reverse Fly,Resistance Band,Compound,Hold,Prepare by adjusting equipment for Reverse Fly.,Execute the movement with proper form for Reverse Fly.,Core,2
+437,Tricep Dip,Medicine Ball,Twist,Twist,Prepare by adjusting equipment for Tricep Dip.,Execute the movement with proper form for Tricep Dip.,Biceps,3
+438,Reverse Fly,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Reverse Fly.,Execute the movement with proper form for Reverse Fly.,Biceps,3
+439,Step-Up,Kettlebell,Twist,Twist,Prepare by adjusting equipment for Step-up.,Execute the movement with proper form for Step-up.,Core,5
+440,Snatch,Kettlebell,Static,Hold,Prepare by adjusting equipment for Snatch.,Execute the movement with proper form for Snatch.,Abs,1
+441,Side Plank,Kettlebell,Twist,Hold,Prepare by adjusting equipment for Side Plank.,Execute the movement with proper form for Side Plank.,Core,4
+442,Seated Row,Medicine Ball,Single,Twist,Prepare by adjusting equipment for Seated Row.,Execute the movement with proper form for Seated Row.,Chest,1
+443,Good Morning,Machine,Static,Push,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Back,5
+444,Snatch,Kettlebell,Twist,Twist,Prepare by adjusting equipment for Snatch.,Execute the movement with proper form for Snatch.,Abs,1
+445,Good Morning,Kettlebell,Static,Twist,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Chest,5
+446,Bent-Over Row,Dumbbell,Twist,Hold,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Triceps,1
+447,Lunge,Machine,Single,Push,Prepare by adjusting equipment for Lunge.,Execute the movement with proper form for Lunge.,Legs,1
+448,Pull-Up,Cable,Single,Hold,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Back,1
+449,Bicep Curl,Dumbbell,Twist,Twist,Prepare by adjusting equipment for Bicep Curl.,Execute the movement with proper form for Bicep Curl.,Biceps,3
+450,Good Morning,Resistance Band,Compound,Twist,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Back,2
+451,Snatch,Machine,Single,Hold,Prepare by adjusting equipment for Snatch.,Execute the movement with proper form for Snatch.,Abs,2
+452,Step-Up,Dumbbell,Compound,Twist,Prepare by adjusting equipment for Step-up.,Execute the movement with proper form for Step-up.,Back,5
+453,Deadlift,Dumbbell,Single,Twist,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Shoulder,5
+454,Russian Twist,Dumbbell,Static,Twist,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Triceps,5
+455,Bicep Curl,Kettlebell,Static,Hold,Prepare by adjusting equipment for Bicep Curl.,Execute the movement with proper form for Bicep Curl.,Legs,1
+456,Preacher Curl,Cable,Static,Hold,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Glutes,5
+457,Pull-Up,Resistance Band,Static,Hold,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Glutes,5
+458,Skullcrusher,Medicine Ball,Static,Twist,Prepare by adjusting equipment for Skullcrusher.,Execute the movement with proper form for Skullcrusher.,Abs,4
+459,T-Bar Row,Barbell,Single,Twist,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Glutes,5
+460,Tricep Dip,Dumbbell,Compound,Push,Prepare by adjusting equipment for Tricep Dip.,Execute the movement with proper form for Tricep Dip.,Legs,3
+461,Cable Crossover,Dumbbell,Compound,Hold,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Glutes,3
+462,Preacher Curl,Kettlebell,Twist,Push,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Biceps,5
+463,Chest Fly,Medicine Ball,Static,Pull,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Back,4
+464,Bench Press,Resistance Band,Twist,Hold,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Back,4
+465,T-Bar Row,Medicine Ball,Static,Push,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Back,5
+466,Bench Press,Dumbbell,Compound,Twist,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Triceps,2
+467,Calf Raise,Machine,Single,Twist,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Biceps,2
+468,Snatch,Kettlebell,Static,Twist,Prepare by adjusting equipment for Snatch.,Execute the movement with proper form for Snatch.,Triceps,1
+469,Bent-Over Row,Resistance Band,Compound,Push,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Abs,2
+470,Zottman Curl,Barbell,Compound,Pull,Prepare by adjusting equipment for Zottman Curl.,Execute the movement with proper form for Zottman Curl.,Back,3
+471,Farmer'S Walk,Bodyweight,Static,Twist,Prepare by adjusting equipment for Farmer's Walk.,Execute the movement with proper form for Farmer's Walk.,Chest,1
+472,Clean And Jerk,Kettlebell,Single,Pull,Prepare by adjusting equipment for Clean and Jerk.,Execute the movement with proper form for Clean and Jerk.,Back,2
+473,Reverse Fly,Resistance Band,Single,Twist,Prepare by adjusting equipment for Reverse Fly.,Execute the movement with proper form for Reverse Fly.,Glutes,2
+474,Bent-Over Row,Kettlebell,Compound,Twist,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Core,2
+475,Russian Twist,Dumbbell,Twist,Hold,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Glutes,5
+476,Farmer'S Walk,Resistance Band,Compound,Push,Prepare by adjusting equipment for Farmer's Walk.,Execute the movement with proper form for Farmer's Walk.,Triceps,1
+477,Good Morning,Dumbbell,Single,Push,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Shoulder,4
+478,Bicep Curl,Cable,Single,Twist,Prepare by adjusting equipment for Bicep Curl.,Execute the movement with proper form for Bicep Curl.,Chest,3
+479,Step-Up,Dumbbell,Single,Push,Prepare by adjusting equipment for Step-up.,Execute the movement with proper form for Step-up.,Shoulder,3
+480,Step-Up,Medicine Ball,Twist,Push,Prepare by adjusting equipment for Step-up.,Execute the movement with proper form for Step-up.,Glutes,1
+481,Snatch,Kettlebell,Single,Push,Prepare by adjusting equipment for Snatch.,Execute the movement with proper form for Snatch.,Biceps,1
+482,Lunge,Bodyweight,Single,Push,Prepare by adjusting equipment for Lunge.,Execute the movement with proper form for Lunge.,Legs,4
+483,Clean And Jerk,Resistance Band,Twist,Hold,Prepare by adjusting equipment for Clean and Jerk.,Execute the movement with proper form for Clean and Jerk.,Abs,1
+484,Snatch,Barbell,Static,Push,Prepare by adjusting equipment for Snatch.,Execute the movement with proper form for Snatch.,Back,1
+485,Arnold Press,Dumbbell,Compound,Push,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Core,2
+486,Russian Twist,Machine,Single,Hold,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Legs,2
+487,Pistol Squat,Resistance Band,Single,Push,Prepare by adjusting equipment for Pistol Squat.,Execute the movement with proper form for Pistol Squat.,Legs,5
+488,Russian Twist,Bodyweight,Static,Pull,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Legs,4
+489,Side Plank,Barbell,Compound,Pull,Prepare by adjusting equipment for Side Plank.,Execute the movement with proper form for Side Plank.,Core,3
+490,Hanging Leg Raise,Dumbbell,Twist,Twist,Prepare by adjusting equipment for Hanging Leg Raise.,Execute the movement with proper form for Hanging Leg Raise.,Back,3
+491,Chest Fly,Resistance Band,Single,Push,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Core,1
+492,Bent-Over Row,Kettlebell,Twist,Pull,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Back,4
+493,Russian Twist,Machine,Static,Pull,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Abs,5
+494,Plank,Barbell,Single,Twist,Prepare by adjusting equipment for Plank.,Execute the movement with proper form for Plank.,Shoulder,4
+495,Pull-Up,Machine,Single,Pull,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Chest,3
+496,Pistol Squat,Bodyweight,Twist,Hold,Prepare by adjusting equipment for Pistol Squat.,Execute the movement with proper form for Pistol Squat.,Abs,1
+497,Clean And Jerk,Resistance Band,Single,Hold,Prepare by adjusting equipment for Clean and Jerk.,Execute the movement with proper form for Clean and Jerk.,Glutes,4
+498,Zottman Curl,Dumbbell,Compound,Twist,Prepare by adjusting equipment for Zottman Curl.,Execute the movement with proper form for Zottman Curl.,Back,1
+499,Lunge,Resistance Band,Twist,Twist,Prepare by adjusting equipment for Lunge.,Execute the movement with proper form for Lunge.,Abs,5
+500,Sumo Deadlift,Medicine Ball,Twist,Pull,Prepare by adjusting equipment for Sumo Deadlift.,Execute the movement with proper form for Sumo Deadlift.,Core,1
+501,Reverse Fly,Medicine Ball,Single,Push,Prepare by adjusting equipment for Reverse Fly.,Execute the movement with proper form for Reverse Fly.,Triceps,5
+502,T-Bar Row,Machine,Compound,Pull,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Abs,5
+503,Push-Up,Resistance Band,Compound,Push,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Core,5
+504,Calf Raise,Cable,Twist,Pull,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Legs,4
+505,Lunge,Barbell,Compound,Hold,Prepare by adjusting equipment for Lunge.,Execute the movement with proper form for Lunge.,Shoulder,1
+506,Cable Crossover,Machine,Compound,Pull,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Core,2
+507,Bent-Over Row,Bodyweight,Single,Push,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Back,1
+508,Pull-Up,Resistance Band,Single,Push,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Chest,3
+509,Push-Up,Barbell,Single,Push,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Back,5
+510,Hanging Leg Raise,Cable,Compound,Pull,Prepare by adjusting equipment for Hanging Leg Raise.,Execute the movement with proper form for Hanging Leg Raise.,Core,1
+511,Face Pull,Kettlebell,Single,Push,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Triceps,2
+512,Good Morning,Cable,Static,Twist,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Abs,2
+513,Russian Twist,Kettlebell,Single,Push,Prepare by adjusting equipment for Russian Twist.,Execute the movement with proper form for Russian Twist.,Biceps,5
+514,Bent-Over Row,Barbell,Compound,Push,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Core,2
+515,Tricep Dip,Cable,Twist,Push,Prepare by adjusting equipment for Tricep Dip.,Execute the movement with proper form for Tricep Dip.,Abs,3
+516,Tricep Dip,Cable,Static,Push,Prepare by adjusting equipment for Tricep Dip.,Execute the movement with proper form for Tricep Dip.,Core,4
+517,Plank,Cable,Twist,Hold,Prepare by adjusting equipment for Plank.,Execute the movement with proper form for Plank.,Triceps,3
+518,Zottman Curl,Dumbbell,Compound,Twist,Prepare by adjusting equipment for Zottman Curl.,Execute the movement with proper form for Zottman Curl.,Core,3
+519,Good Morning,Machine,Compound,Push,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Back,4
+520,Arnold Press,Medicine Ball,Single,Push,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Chest,3
+521,Bent-Over Row,Kettlebell,Compound,Push,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Back,4
+522,Arnold Press,Bodyweight,Static,Push,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,2
+523,Hanging Leg Raise,Kettlebell,Compound,Twist,Prepare by adjusting equipment for Hanging Leg Raise.,Execute the movement with proper form for Hanging Leg Raise.,Triceps,1
+524,Snatch,Barbell,Single,Pull,Prepare by adjusting equipment for Snatch.,Execute the movement with proper form for Snatch.,Core,2
+525,Leg Extension,Machine,Twist,Twist,Prepare by adjusting equipment for Leg Extension.,Execute the movement with proper form for Leg Extension.,Shoulder,4
+526,Push-Up,Kettlebell,Single,Twist,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Core,3
+527,Hanging Leg Raise,Kettlebell,Compound,Pull,Prepare by adjusting equipment for Hanging Leg Raise.,Execute the movement with proper form for Hanging Leg Raise.,Core,4
+528,Pistol Squat,Kettlebell,Twist,Push,Prepare by adjusting equipment for Pistol Squat.,Execute the movement with proper form for Pistol Squat.,Abs,5
+529,Overhead Press,Bodyweight,Compound,Hold,Prepare by adjusting equipment for Overhead Press.,Execute the movement with proper form for Overhead Press.,Abs,5
+530,Side Plank,Bodyweight,Compound,Hold,Prepare by adjusting equipment for Side Plank.,Execute the movement with proper form for Side Plank.,Chest,1
+531,Pistol Squat,Cable,Static,Pull,Prepare by adjusting equipment for Pistol Squat.,Execute the movement with proper form for Pistol Squat.,Glutes,5
+532,Hip Thrust,Kettlebell,Single,Pull,Prepare by adjusting equipment for Hip Thrust.,Execute the movement with proper form for Hip Thrust.,Biceps,1
+533,Good Morning,Resistance Band,Twist,Hold,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Biceps,1
+534,Reverse Fly,Kettlebell,Static,Twist,Prepare by adjusting equipment for Reverse Fly.,Execute the movement with proper form for Reverse Fly.,Abs,1
+535,Hip Thrust,Medicine Ball,Static,Twist,Prepare by adjusting equipment for Hip Thrust.,Execute the movement with proper form for Hip Thrust.,Core,2
+536,Bicep Curl,Machine,Single,Push,Prepare by adjusting equipment for Bicep Curl.,Execute the movement with proper form for Bicep Curl.,Back,4
+537,Bench Press,Barbell,Single,Pull,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Chest,3
+538,Arnold Press,Medicine Ball,Single,Hold,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Shoulder,1
+539,Deadlift,Kettlebell,Single,Push,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Legs,1
+540,Push-Up,Machine,Compound,Twist,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Core,3
+541,Good Morning,Dumbbell,Compound,Pull,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Shoulder,5
+542,Reverse Fly,Bodyweight,Compound,Pull,Prepare by adjusting equipment for Reverse Fly.,Execute the movement with proper form for Reverse Fly.,Chest,4
+543,Sumo Deadlift,Medicine Ball,Single,Pull,Prepare by adjusting equipment for Sumo Deadlift.,Execute the movement with proper form for Sumo Deadlift.,Core,3
+544,Sumo Deadlift,Cable,Single,Hold,Prepare by adjusting equipment for Sumo Deadlift.,Execute the movement with proper form for Sumo Deadlift.,Glutes,3
+545,Lunge,Medicine Ball,Compound,Hold,Prepare by adjusting equipment for Lunge.,Execute the movement with proper form for Lunge.,Shoulder,5
+546,Step-Up,Cable,Compound,Twist,Prepare by adjusting equipment for Step-up.,Execute the movement with proper form for Step-up.,Core,5
+547,Calf Raise,Medicine Ball,Single,Push,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Core,5
+548,Deadlift,Resistance Band,Static,Pull,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Abs,4
+549,Tricep Dip,Barbell,Static,Push,Prepare by adjusting equipment for Tricep Dip.,Execute the movement with proper form for Tricep Dip.,Core,4
+550,Preacher Curl,Resistance Band,Twist,Hold,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Back,3
+551,Zottman Curl,Resistance Band,Single,Hold,Prepare by adjusting equipment for Zottman Curl.,Execute the movement with proper form for Zottman Curl.,Triceps,4
+552,Deadlift,Dumbbell,Compound,Push,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Biceps,4
+553,Face Pull,Dumbbell,Single,Pull,Prepare by adjusting equipment for Face Pull.,Execute the movement with proper form for Face Pull.,Glutes,4
+554,Lunge,Machine,Twist,Twist,Prepare by adjusting equipment for Lunge.,Execute the movement with proper form for Lunge.,Biceps,2
+555,Push-Up,Bodyweight,Single,Push,Prepare by adjusting equipment for Push-up.,Execute the movement with proper form for Push-up.,Biceps,5
+556,Clean And Jerk,Resistance Band,Compound,Hold,Prepare by adjusting equipment for Clean and Jerk.,Execute the movement with proper form for Clean and Jerk.,Core,4
+557,Leg Extension,Machine,Single,Push,Prepare by adjusting equipment for Leg Extension.,Execute the movement with proper form for Leg Extension.,Abs,3
+558,Good Morning,Medicine Ball,Static,Push,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Abs,4
+559,Lunge,Barbell,Twist,Hold,Prepare by adjusting equipment for Lunge.,Execute the movement with proper form for Lunge.,Shoulder,2
+560,Farmer'S Walk,Resistance Band,Twist,Twist,Prepare by adjusting equipment for Farmer's Walk.,Execute the movement with proper form for Farmer's Walk.,Core,3
+561,Clean And Jerk,Cable,Static,Twist,Prepare by adjusting equipment for Clean and Jerk.,Execute the movement with proper form for Clean and Jerk.,Abs,3
+562,Farmer'S Walk,Machine,Compound,Push,Prepare by adjusting equipment for Farmer's Walk.,Execute the movement with proper form for Farmer's Walk.,Back,2
+563,Hanging Leg Raise,Machine,Single,Twist,Prepare by adjusting equipment for Hanging Leg Raise.,Execute the movement with proper form for Hanging Leg Raise.,Legs,2
+564,Snatch,Kettlebell,Twist,Hold,Prepare by adjusting equipment for Snatch.,Execute the movement with proper form for Snatch.,Core,2
+565,Tricep Dip,Medicine Ball,Single,Twist,Prepare by adjusting equipment for Tricep Dip.,Execute the movement with proper form for Tricep Dip.,Shoulder,2
+566,Skullcrusher,Machine,Single,Pull,Prepare by adjusting equipment for Skullcrusher.,Execute the movement with proper form for Skullcrusher.,Core,5
+567,Deadlift,Resistance Band,Compound,Push,Prepare by adjusting equipment for Deadlift.,Execute the movement with proper form for Deadlift.,Triceps,5
+568,Arnold Press,Cable,Twist,Push,Prepare by adjusting equipment for Arnold Press.,Execute the movement with proper form for Arnold Press.,Glutes,4
+569,Pull-Up,Cable,Compound,Push,Prepare by adjusting equipment for Pull-up.,Execute the movement with proper form for Pull-up.,Glutes,4
+570,Good Morning,Resistance Band,Twist,Hold,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Triceps,4
+571,Skullcrusher,Medicine Ball,Twist,Hold,Prepare by adjusting equipment for Skullcrusher.,Execute the movement with proper form for Skullcrusher.,Glutes,1
+572,Skullcrusher,Resistance Band,Single,Push,Prepare by adjusting equipment for Skullcrusher.,Execute the movement with proper form for Skullcrusher.,Chest,5
+573,Preacher Curl,Cable,Static,Twist,Prepare by adjusting equipment for Preacher Curl.,Execute the movement with proper form for Preacher Curl.,Shoulder,3
+574,Zottman Curl,Medicine Ball,Static,Twist,Prepare by adjusting equipment for Zottman Curl.,Execute the movement with proper form for Zottman Curl.,Triceps,1
+575,Skullcrusher,Dumbbell,Single,Pull,Prepare by adjusting equipment for Skullcrusher.,Execute the movement with proper form for Skullcrusher.,Shoulder,2
+576,Calf Raise,Dumbbell,Single,Hold,Prepare by adjusting equipment for Calf Raise.,Execute the movement with proper form for Calf Raise.,Triceps,1
+577,T-Bar Row,Machine,Compound,Hold,Prepare by adjusting equipment for T-Bar Row.,Execute the movement with proper form for T-Bar Row.,Triceps,1
+578,Hip Thrust,Cable,Single,Pull,Prepare by adjusting equipment for Hip Thrust.,Execute the movement with proper form for Hip Thrust.,Triceps,5
+579,Reverse Fly,Kettlebell,Single,Twist,Prepare by adjusting equipment for Reverse Fly.,Execute the movement with proper form for Reverse Fly.,Triceps,2
+580,Cable Crossover,Machine,Single,Push,Prepare by adjusting equipment for Cable Crossover.,Execute the movement with proper form for Cable Crossover.,Biceps,3
+581,Good Morning,Barbell,Twist,Twist,Prepare by adjusting equipment for Good Morning.,Execute the movement with proper form for Good Morning.,Triceps,2
+582,Side Plank,Barbell,Static,Hold,Prepare by adjusting equipment for Side Plank.,Execute the movement with proper form for Side Plank.,Shoulder,5
+583,Bench Press,Machine,Single,Push,Prepare by adjusting equipment for Bench Press.,Execute the movement with proper form for Bench Press.,Legs,4
+584,Reverse Fly,Machine,Compound,Hold,Prepare by adjusting equipment for Reverse Fly.,Execute the movement with proper form for Reverse Fly.,Shoulder,1
+585,Chest Fly,Barbell,Single,Hold,Prepare by adjusting equipment for Chest Fly.,Execute the movement with proper form for Chest Fly.,Legs,4
+586,Clean And Jerk,Medicine Ball,Static,Twist,Prepare by adjusting equipment for Clean and Jerk.,Execute the movement with proper form for Clean and Jerk.,Shoulder,1
+587,Bent-Over Row,Machine,Compound,Push,Prepare by adjusting equipment for Bent-over Row.,Execute the movement with proper form for Bent-over Row.,Legs,4

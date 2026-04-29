@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dashboard - FitLife Pro</title>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+  <style>
+    .dashboard-container {
+      min-height: 100vh;
+      padding: 2rem 0;
+    }
+
+    .form-section {
+      background: rgba(30, 30, 30, 0.6);
+      border-radius: 20px;
+      padding: 2rem;
+      margin-bottom: 2rem;
+    }
+
+    .section-title {
+      border-bottom: 2px solid var(--primary);
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+      display: inline-block;
+    }
+
+    .custom-radio .form-check-input:checked {
+      background-color: var(--primary);
+      border-color: var(--primary);
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg glass-panel m-3 sticky-top">
+    <div class="container">
+      <a class="navbar-brand d-flex align-items-center" href="#">
+        <i class="fas fa-dumbbell text-primary me-2"></i>
+        <span class="fw-bold text-white">FitLife<span class="text-primary">Pro</span></span>
+      </a>
+      <div class="d-flex align-items-center gap-3">
+        <span class="text-light">Welcome, <span class="text-primary fw-bold">{{ session.username }}</span></span>
+        <a href="{{ url_for('logout') }}" class="btn btn-outline btn-sm">Logout</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container dashboard-container">
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
+        <div class="glass-panel p-4 fade-in">
+          <div class="text-center mb-5">
+            <h2 class="display-5 fw-bold">Generate Your Plan</h2>
+            <p class="text-muted">Fill in your details to get a personalized AI recommendation</p>
+          </div>
+
+          <form action="/predict" method="POST">
+            <!-- Personal Details -->
+            <div class="form-section">
+              <h4 class="section-title"><i class="fas fa-user me-2"></i>Personal Details</h4>
+              <div class="row g-4">
+                <div class="col-md-6">
+                  <label class="form-label">Full Name</label>
+                  <input type="text" class="form-control" name="name" required placeholder="John Doe">
+                </div>
+                <div class="col-md-3">
+                  <label class="form-label">Age</label>
+                  <input type="number" class="form-control" name="age" required min="18" placeholder="25">
+                </div>
+                <div class="col-md-3">
+                  <label class="form-label">Gender</label>
+                  <div class="d-flex gap-3 mt-2">
+                    <div class="form-check custom-radio">
+                      <input class="form-check-input" type="radio" name="gender" id="male" value="male" checked>
+                      <label class="form-check-label" for="male">Male</label>
+                    </div>
+                    <div class="form-check custom-radio">
+                      <input class="form-check-input" type="radio" name="gender" id="female" value="female">
+                      <label class="form-check-label" for="female">Female</label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Body Metrics -->
+            <div class="form-section">
+              <h4 class="section-title"><i class="fas fa-ruler-combined me-2"></i>Body Metrics</h4>
+              <div class="row g-4">
+                <div class="col-md-6">
+                  <label class="form-label">Height (cm)</label>
+                  <div class="input-group">
+                    <span class="input-group-text bg-dark text-light border-secondary"><i
+                        class="fas fa-arrows-alt-v"></i></span>
+                    <input type="number" class="form-control" name="height" required placeholder="175">
+                  </div>
+                </div>
+                <div class="col-md-6">
+                  <label class="form-label">Weight (kg)</label>
+                  <div class="input-group">
+                    <span class="input-group-text bg-dark text-light border-secondary"><i
+                        class="fas fa-weight"></i></span>
+                    <input type="number" class="form-control" name="weight" required placeholder="70">
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Goals & Preferences -->
+            <div class="form-section">
+              <h4 class="section-title"><i class="fas fa-bullseye me-2"></i>Goals & Preferences</h4>
+              <div class="row g-4">
+                <div class="col-md-4">
+                  <label class="form-label">Fitness Goal</label>
+                  <select class="form-select" name="goal">
+                    <option value="bulking">Bulking (Build Muscle)</option>
+                    <option value="cutting">Cutting (Lose Fat)</option>
+                    <option value="maintaining">Maintain Weight</option>
+                  </select>
+                </div>
+                <div class="col-md-4">
+                  <label class="form-label">Activity Level</label>
+                  <select class="form-select" name="activity_level">
+                    <option value="sedentary">Sedentary (Office Job)</option>
+                    <option value="light">Lightly Active</option>
+                    <option value="moderate">Moderately Active</option>
+                    <option value="active">Active</option>
+                    <option value="very active">Very Active</option>
+                  </select>
+                </div>
+                <div class="col-md-4">
+                  <label class="form-label">Diet Preference</label>
+                  <select class="form-select" name="diet_type">
+                    <option value="veg">Vegetarian</option>
+                    <option value="non-veg">Non-Vegetarian</option>
+                  </select>
+                </div>
+                <div class="col-md-6">
+                  <label class="form-label">Workout Focus</label>
+                  <select class="form-select" name="focus">
+                    <option value="single">Single Muscle Group / Day</option>
+                    <option value="double">Double Muscle Group / Day</option>
+                  </select>
+                </div>
+                <div class="col-md-6">
+                  <label class="form-label">Plan Duration (Weeks)</label>
+                  <input type="number" class="form-control" name="num_weeks" required min="1" max="12" value="4">
+                </div>
+                <div class="col-12">
+                  <label class="form-label">Workout Difficulty (1-5)</label>
+                  <input type="range" class="form-range" name="difficulty" min="1" max="5" id="difficultyRange">
+                  <div class="d-flex justify-content-between text-muted small">
+                    <span>Beginner</span>
+                    <span>Intermediate</span>
+                    <span>Advanced</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="text-center mt-5">
+              <button type="submit" class="btn btn-primary btn-lg px-5">
+                <i class="fas fa-magic me-2"></i> Generate My Plan
+              </button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="{{ url_for('static', filename='animations.js') }}"></script>
+</body>
+
+</html>

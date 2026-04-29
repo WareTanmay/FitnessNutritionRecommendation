@@ -1,0 +1,31 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px gray;
+}
+
+.card {
+    border-radius: 15px;
+    border: none;
+}
+
+.form-control, .form-select {
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.btn-lg {
+    border-radius: 10px;
+    padding: 12px 20px;
+}
+
+.list-group-item {
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    margin: 3px 0;
+}

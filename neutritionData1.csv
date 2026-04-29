@@ -1,0 +1,650 @@
+No.,Recipe Name,Protein (g),Carbs (g),Fat (g),Total Calories,Serving Size,Time of Day,Preparation Instructions,Veg / Non-veg
+1,Grilled Chicken Salad,30,10,5,250,1 bowl,Lunch,"Grill chicken, chop veggies, mix with dressing, serve chilled.",Non-Veg
+2,Quinoa & Black Bean Bowl,15,40,5,300,1 bowl,Lunch,"Cook quinoa, mix with black beans, corn, and spices, serve warm.",Veg
+3,Overnight Oats,10,30,5,250,1 jar,Breakfast,"Mix oats, yogurt, and fruits in a jar, refrigerate overnight.",Veg
+4,Spinach & Feta Omelette,20,5,10,200,1 omelette,Breakfast,"Whisk eggs, add spinach and feta, cook in a skillet until set.",Non-Veg
+5,Turkey & Avocado Wrap,25,30,15,400,1 wrap,Lunch,"Spread avocado on wrap, layer turkey and veggies, roll tightly.",Non-Veg
+6,Baked Salmon with Asparagus,35,10,15,350,1 fillet,Dinner,Bake salmon and asparagus with olive oil and lemon at 400°F for 20 minutes.,Veg
+7,Greek Yogurt Parfait,15,25,5,200,1 cup,Snack,"Layer yogurt, granola, and berries in a cup.",Veg
+8,Lentil Soup,18,30,3,220,1 bowl,Dinner,"Cook lentils with veggies and broth until tender, season to taste.",Veg
+9,Protein Pancakes,25,30,8,350,3 pancakes,Breakfast,"Mix protein powder, oats, and eggs, cook on skillet until golden.",Veg
+10,Chickpea Salad,12,35,8,280,1 bowl,Lunch,"Mix chickpeas, cucumber, tomatoes, and dressing, serve chilled.",Veg
+11,Zucchini Noodles,10,15,5,150,1 bowl,Dinner,"Spiralize zucchini, Saute with garlic and olive oil, serve with marinara.",Veg
+12,Almond Butter Smoothie,20,20,15,350,1 glass,Snack,"Blend almond butter, banana, spinach, and almond milk until smooth.",Veg
+13,Cauliflower Rice Stir-Fry,10,20,5,150,1 bowl,Dinner,Saute cauliflower rice with mixed veggies and soy sauce.,Veg
+14,Egg & Veggie Breakfast Bowl,20,15,10,250,1 bowl,Breakfast,"Scramble eggs with spinach, tomatoes, and onions, serve warm.",Non-Veg
+15,Shrimp Tacos,25,30,10,350,2 tacos,Dinner,"Cook shrimp with spices, serve in corn tortillas with slaw.",Non-Veg
+16,Cottage Cheese & Pineapple,15,20,2,150,1 cup,Snack,"Mix cottage cheese with pineapple chunks, serve chilled.",Veg
+17,Beef Stir-Fry,30,20,15,400,1 bowl,Dinner,"Stir-fry beef with broccoli and bell peppers, serve with brown rice.",Non-Veg
+18,Chia Seed Pudding,10,20,5,200,1 cup,Snack,"Mix chia seeds with almond milk, refrigerate overnight, top with fruits.",Veg
+20,Chicken Stir-Fry,30,25,10,400,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and teriyaki sauce, serve over rice.",Non-Veg
+21,Greek Salad,12,15,8,200,1 bowl,Lunch,"Toss cucumbers, tomatoes, olives, and feta with olive oil and oregano.",Veg
+22,Tuna Salad,25,5,10,200,1 bowl,Lunch,"Mix canned tuna with mayo, celery, and onions, serve on lettuce.",Veg
+23,Sweet Potato & Black Bean Tacos,15,40,5,300,2 tacos,Dinner,"Roast sweet potatoes, mix with black beans, serve in corn tortillas.",Veg
+24,Caprese Salad,10,5,15,200,1 plate,Snack,"Layer fresh mozzarella, tomatoes, and basil, drizzle with balsamic glaze.",Veg
+25,Baked Chicken Thighs,30,0,20,400,1 thigh,Dinner,"Season chicken thighs, bake at 375°F for 45 minutes until cooked through.",Non-Veg
+26,Spinach & Mushroom Quiche,15,20,10,250,1 slice,Breakfast,"Bake eggs with spinach, mushrooms, and cheese in a pie crust until set.",Veg
+27,Peanut Butter Banana Toast,10,30,10,250,1 slice,Snack,"Spread peanut butter on whole grain toast, top with banana slices.",Veg
+28,Vegetable Soup,8,25,2,150,1 bowl,Dinner,"Simmer mixed vegetables in vegetable broth until tender, season to taste.",Veg
+29,Chicken Caesar Salad,30,10,15,350,1 bowl,Lunch,"Toss romaine with grilled chicken, Caesar dressing, croutons, and parmesan.",Non-Veg
+30,Egg Salad,12,5,10,200,1 sandwich,Lunch,"Mix chopped hard-boiled eggs with mayo, mustard, and seasonings, serve on bread.",Non-Veg
+31,Stuffed Bell Peppers,20,30,5,300,1 pepper,Dinner,"Stuff bell peppers with quinoa, black beans, and spices, bake until tender.",Veg
+32,Coconut Curry Chickpeas,15,30,10,300,1 bowl,Dinner,"Cook chickpeas in coconut milk with curry powder and spinach, serve with rice.",Veg
+33,Oatmeal with Berries,10,30,5,200,1 bowl,Breakfast,"Cook oats with water or milk, top with fresh berries and honey.",Veg
+34,Grilled Shrimp Salad,25,10,5,250,1 bowl,Lunch,"Grill shrimp, toss with mixed greens, avocado, and vinaigrette.",Non-Veg
+35,Veggie Stir-Fry,10,20,5,150,1 bowl,Dinner,"Stir-fry assorted vegetables with soy sauce and sesame oil, serve over rice.",Non-Veg
+36,Turkey Chili,30,20,10,350,1 bowl,Dinner,"Cook ground turkey with beans, tomatoes, and spices until thickened.",Non-Veg
+37,Avocado Toast,5,30,15,250,1 slice,Snack,"Mash avocado on whole grain toast, sprinkle with salt and pepper.",Veg
+38,Salmon & Quinoa Bowl,35,30,10,400,1 bowl,Dinner,"Bake salmon, serve over quinoa with steamed broccoli.",Veg
+39,Black Bean Soup,15,30,5,220,1 bowl,Dinner,"Blend black beans with broth, season, and heat until warm.",Veg
+40,Fruit Smoothie,5,40,2,150,1 glass,Snack,Blend mixed fruits with yogurt and a splash of juice until smooth.,Veg
+41,Chicken Fajitas,30,20,10,350,2 fajitas,Dinner,"Saute chicken with bell peppers and onions, serve in tortillas.",Non-Veg
+42,Quinoa Salad,12,35,5,250,1 bowl,Lunch,"Mix cooked quinoa with cherry tomatoes, cucumber, and feta, drizzle with olive oil.",Veg
+43,Egg & Avocado Toast,12,30,15,300,1 slice,Breakfast,Top whole grain toast with smashed avocado and a poached egg.,Non-Veg
+44,Roasted Vegetable Medley,5,25,5,150,1 bowl,Dinner,Roast assorted vegetables with olive oil and herbs until tender.,Veg
+45,Chicken & Broccoli Casserole,30,20,10,350,1 serving,Dinner,Combine cooked chicken and broccoli with cheese and bake until bubbly.,Non-Veg
+46,Spinach & Cheese Stuffed Shells,15,40,10,400,3 shells,Dinner,"Fill pasta shells with spinach and cheese, cover with marinara, and bake.",Veg
+47,Turkey & Cheese Sandwich,25,30,10,350,1 sandwich,Lunch,"Layer turkey and cheese on whole grain bread, add lettuce and tomato.",Non-Veg
+48,Grilled Veggie Wrap,10,30,5,250,1 wrap,Lunch,"Grill assorted vegetables, wrap in a tortilla with hummus.",Non-Veg
+49,Shrimp & Grits,25,40,15,450,1 bowl,Dinner,"Cook shrimp in a spicy sauce, serve over creamy grits.",Non-Veg
+50,Caprese Pasta Salad,12,40,10,350,1 bowl,Lunch,"Toss cooked pasta with mozzarella, tomatoes, basil, and balsamic dressing.",Veg
+51,Chicken & Rice Bowl,30,40,10,400,1 bowl,Dinner,Serve grilled chicken over brown rice with steamed vegetables.,Non-Veg
+52,Veggie Omelette,20,5,10,200,1 omelette,Breakfast,"Whisk eggs, add mixed vegetables, cook until set.",Non-Veg
+53,Baked Ziti,15,40,10,400,1 serving,Dinner,"Layer cooked pasta with marinara and cheese, bake until bubbly.",Veg
+54,Chicken Tikka Masala,30,20,15,400,1 bowl,Dinner,"Cook chicken in a spiced tomato sauce, serve with rice.",Non-Veg
+55,Greek Yogurt & Honey Bowl,15,25,5,200,1 bowl,Snack,Top Greek yogurt with honey and nuts for a healthy snack.,Veg
+56,Veggie Sushi Rolls,10,30,5,200,6 rolls,Snack,"Roll sushi rice with cucumber, avocado, and carrots in nori.",Non-Veg
+57,Chicken Noodle Soup,25,30,5,250,1 bowl,Dinner,"Simmer chicken, noodles, and vegetables in broth until cooked.",Non-Veg
+58,Roasted Chickpeas,10,30,5,150,1 cup,Snack,"Toss chickpeas with spices, roast until crispy.",Veg
+60,Chicken & Quinoa Salad,30,35,10,400,1 bowl,Lunch,"Mix grilled chicken with quinoa, spinach, and vinaigrette.",Non-Veg
+61,Veggie Pizza,12,40,10,350,1 slice,Dinner,"Top whole wheat crust with tomato sauce, cheese, and assorted vegetables, bake.",Non-Veg
+62,Thai Peanut Noodles,15,40,15,400,1 bowl,Dinner,"Toss cooked noodles with peanut sauce, veggies, and cilantro.",Veg
+63,Baked Eggplant Parmesan,10,30,10,300,1 serving,Dinner,"Layer baked eggplant with marinara and cheese, bake until bubbly.",Non-Veg
+64,Chicken & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+65,Fruit Salad,5,30,1,150,1 bowl,Snack,"Mix assorted fresh fruits, drizzle with honey and lime juice.",Veg
+66,Lentil & Spinach Curry,18,30,5,250,1 bowl,Dinner,"Cook lentils with spinach, coconut milk, and spices, serve with rice.",Veg
+67,Chicken & Avocado Salad,30,10,15,350,1 bowl,Lunch,"Toss grilled chicken with avocado, mixed greens, and lime dressing.",Non-Veg
+68,Quinoa & Roasted Veggies,12,40,5,300,1 bowl,Dinner,Mix cooked quinoa with roasted vegetables and a drizzle of balsamic glaze.,Non-Veg
+69,Shrimp & Vegetable Skewers,25,10,5,200,2 skewers,Dinner,"Grill shrimp and vegetables on skewers, serve with a dipping sauce.",Non-Veg
+70,Greek Yogurt Smoothie,15,30,5,200,1 glass,Snack,Blend Greek yogurt with fruits and a splash of milk until smooth.,Veg
+71,Chicken & Spinach Wrap,30,30,10,400,1 wrap,Lunch,"Fill a wrap with grilled chicken, spinach, and hummus, roll tightly.",Non-Veg
+72,Veggie & Hummus Plate,10,20,5,150,1 plate,Snack,Serve assorted raw vegetables with hummus for dipping.,Non-Veg
+73,Baked Sweet Potato,5,30,0,150,1 potato,Dinner,"Bake sweet potato until tender, serve with toppings of choice.",Veg
+74,Chicken & Black Bean Bowl,30,40,10,400,1 bowl,Dinner,"Combine grilled chicken with black beans, corn, and salsa, serve over rice.",Non-Veg
+75,Spinach & Feta Stuffed Chicken,25,5,10,300,1 breast,Dinner,"Stuff chicken breast with spinach and feta, bake until cooked through.",Non-Veg
+76,Veggie & Cheese Quesadilla,12,30,10,300,1 quesadilla,Lunch,"Fill a tortilla with cheese and assorted vegetables, cook until golden.",Non-Veg
+77,Chicken & Lentil Soup,25,30,5,250,1 bowl,Dinner,"Simmer chicken, lentils, and vegetables in broth until cooked.",Non-Veg
+80,Chicken & Vegetable Soup,25,30,5,250,1 bowl,Dinner,Simmer chicken and vegetables in broth until cooked through.,Non-Veg
+81,Spinach & Ricotta Stuffed Shells,15,40,10,400,3 shells,Dinner,"Fill pasta shells with spinach and ricotta, cover with marinara, and bake.",Veg
+82,Beef & Broccoli Stir-Fry,30,20,15,400,1 bowl,Dinner,"Stir-fry beef with broccoli and soy sauce, serve over rice.",Non-Veg
+83,Avocado & Tomato Salad,5,10,15,200,1 bowl,Snack,Toss avocado and tomatoes with lime juice and salt.,Veg
+84,Chicken & Quinoa Bowl,30,35,10,400,1 bowl,Lunch,Serve grilled chicken over quinoa with mixed vegetables.,Non-Veg
+85,Roasted Brussels Sprouts,5,15,5,100,1 cup,Side,Roast Brussels sprouts with olive oil and seasonings until crispy.,Veg
+86,Shrimp Fried Rice,25,40,10,400,1 bowl,Dinner,"Stir-fry shrimp with rice, peas, and carrots, season with soy sauce.",Non-Veg
+87,Chicken & Sweet Potato Bowl,30,40,10,400,1 bowl,Dinner,Combine grilled chicken with roasted sweet potatoes and greens.,Non-Veg
+88,Veggie & Bean Chili,15,30,5,250,1 bowl,Dinner,"Cook mixed beans with tomatoes, bell peppers, and spices until thickened.",Non-Veg
+89,Greek Chicken Wrap,25,30,10,350,1 wrap,Lunch,"Fill a wrap with grilled chicken, tzatziki, and veggies, roll tightly.",Non-Veg
+90,Baked Cod with Lemon,30,0,5,200,1 fillet,Dinner,Bake cod with lemon and herbs until flaky.,Veg
+91,Quinoa & Spinach Stuffed Peppers,12,30,5,250,1 pepper,Dinner,"Stuff bell peppers with quinoa and spinach, bake until tender.",Veg
+92,Chicken & Avocado Quesadilla,25,30,10,350,1 quesadilla,Lunch,"Fill a tortilla with chicken and avocado, cook until golden.",Non-Veg
+93,Lentil Salad,18,30,5,250,1 bowl,Lunch,Mix cooked lentils with diced vegetables and vinaigrette.,Veg
+94,Eggplant & Chickpea Curry,10,30,10,300,1 bowl,Dinner,"Cook eggplant and chickpeas in a spiced tomato sauce, serve with rice.",Non-Veg
+95,Chicken & Spinach Pasta,30,40,10,400,1 bowl,Dinner,"Toss pasta with grilled chicken, spinach, and garlic sauce.",Non-Veg
+96,Veggie & Hummus Sandwich,10,30,5,200,1 sandwich,Lunch,"Spread hummus on whole grain bread, add assorted vegetables.",Non-Veg
+97,Shrimp & Avocado Salad,25,10,15,300,1 bowl,Lunch,"Toss shrimp with avocado, mixed greens, and lime dressing.",Non-Veg
+98,Chicken & Rice Casserole,30,40,10,400,1 serving,Dinner,"Combine chicken, rice, and vegetables in a casserole dish, bake until bubbly.",Non-Veg
+99,Spicy Tofu Stir-Fry,20,20,10,300,1 bowl,Dinner,"Stir-fry tofu with mixed vegetables and spicy sauce, serve over rice.",Veg
+100,Berry Chia Pudding,10,20,5,200,1 cup,Snack,"Mix chia seeds with almond milk and berries, refrigerate until thickened.",Veg
+101,Grilled Vegetable Salad,5,15,5,100,1 bowl,Lunch,"Grill assorted vegetables, toss with olive oil and balsamic vinegar.",Veg
+102,Turkey Meatballs,25,10,10,250,4 meatballs,Dinner,"Mix ground turkey with herbs, form into balls, bake until cooked through.",Non-Veg
+103,Quinoa & Kale Salad,12,30,5,250,1 bowl,Lunch,"Toss cooked quinoa with kale, cherry tomatoes, and a lemon vinaigrette.",Veg
+104,Spicy Chickpea Tacos,15,30,5,250,2 tacos,Dinner,"Fill corn tortillas with spiced chickpeas, avocado, and salsa.",Veg
+105,Coconut Rice,5,40,10,250,1 cup,Side,"Cook rice in coconut milk for a creamy texture, serve with grilled chicken.",Veg
+106,Baked Falafel,15,30,5,200,4 falafel,Lunch,"Blend chickpeas with herbs, form into balls, bake until golden.",Veg
+107,Sweet Potato & Quinoa Bowl,10,40,5,300,1 bowl,Dinner,"Combine roasted sweet potatoes with quinoa and black beans, drizzle with lime.",Veg
+108,Greek Chicken Pita,30,30,10,400,1 pita,Lunch,"Fill pita with grilled chicken, tzatziki, and mixed greens.",Non-Veg
+109,Zucchini & Corn Fritters,10,20,5,150,3 fritters,Snack,"Mix grated zucchini and corn with eggs and flour, pan-fry until golden.",Veg
+110,Lentil & Vegetable Stir-Fry,18,30,5,250,1 bowl,Dinner,"Stir-fry lentils with mixed vegetables and soy sauce, serve over rice.",Veg
+111,Chicken & Avocado Bowl,30,10,15,350,1 bowl,Lunch,"Toss grilled chicken with avocado, cherry tomatoes, and mixed greens.",Non-Veg
+112,Spaghetti Squash with Marinara,10,25,5,200,1 bowl,Dinner,"Roast spaghetti squash, top with marinara sauce and parmesan cheese.",Veg
+113,Almond Flour Muffins,8,15,10,200,1 muffin,Snack,"Mix almond flour with eggs and sweetener, bake until golden.",Veg
+114,Grilled Chicken & Mango Salad,30,15,10,350,1 bowl,Lunch,"Toss grilled chicken with mango, avocado, and mixed greens.",Non-Veg
+115,Cauliflower & Chickpea Curry,15,30,10,300,1 bowl,Dinner,Cook cauliflower and chickpeas in coconut milk with curry spices.,Veg
+116,Egg & Spinach Breakfast Wrap,20,30,10,300,1 wrap,Breakfast,"Scramble eggs with spinach, wrap in a tortilla with cheese.",Non-Veg
+117,Roasted Beet Salad,8,15,5,150,1 bowl,Lunch,"Toss roasted beets with goat cheese, walnuts, and arugula.",Veg
+118,Chicken & Vegetable Kebabs,30,10,10,300,2 skewers,Dinner,"Skewer chicken and vegetables, grill until cooked through.",Non-Veg
+119,Quinoa & Black Bean Stuffed Peppers,15,30,5,250,1 pepper,Dinner,"Stuff bell peppers with quinoa and black beans, bake until tender.",Veg
+120,Shrimp & Avocado Toast,25,30,15,350,1 slice,Snack,"Top whole grain toast with shrimp, avocado, and a squeeze of lime.",Non-Veg
+121,Vegetable & Hummus Wrap,10,30,5,200,1 wrap,Lunch,"Spread hummus on a tortilla, fill with assorted vegetables, and roll tightly.",Veg
+122,Chicken & Broccoli Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with broccoli and soy sauce, serve over rice.",Non-Veg
+123,Spinach & Feta Stuffed Chicken Breast,25,5,10,300,1 breast,Dinner,"Stuff chicken breast with spinach and feta, bake until cooked through.",Non-Veg
+124,Baked Potato with Toppings,5,30,5,200,1 potato,Side,"Bake potato until tender, top with sour cream, chives, and cheese.",Veg
+125,Thai Green Curry,20,15,15,350,1 bowl,Dinner,Cook chicken or tofu in green curry paste with coconut milk and vegetables.,Veg
+126,Roasted Garlic & Herb Chicken,30,0,10,250,1 serving,Dinner,Roast chicken with garlic and herbs until golden and cooked through.,Non-Veg
+127,Chickpea & Spinach Stew,15,30,5,250,1 bowl,Dinner,Simmer chickpeas and spinach in tomato sauce with spices.,Veg
+128,Grilled Salmon Tacos,25,30,10,350,2 tacos,Dinner,"Fill corn tortillas with grilled salmon, cabbage slaw, and avocado.",Veg
+129,Caprese Stuffed Avocado,10,15,15,250,1 avocado,Snack,"Fill avocado halves with mozzarella, tomatoes, and basil, drizzle with balsamic.",Veg
+130,Vegetable Quinoa Bowl,12,40,5,300,1 bowl,Lunch,Mix cooked quinoa with roasted vegetables and a lemon vinaigrette.,Veg
+131,Chicken & Sweet Potato Skillet,30,40,10,400,1 bowl,Dinner,Saute chicken and sweet potatoes with spices until cooked through.,Non-Veg
+132,Spinach & Mushroom Risotto,10,30,5,250,1 bowl,Dinner,"Cook arborio rice slowly with broth, add spinach and mushrooms until creamy.",Veg
+133,Baked Apples with Cinnamon,2,30,5,150,1 apple,Snack,"Core apples, fill with cinnamon and nuts, bake until tender.",Veg
+134,Chicken & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and teriyaki sauce, serve over rice.",Non-Veg
+135,Quinoa & Roasted Beet Salad,12,30,5,250,1 bowl,Lunch,"Toss cooked quinoa with roasted beets, feta, and arugula.",Veg
+136,Egg & Cheese Breakfast Sandwich,20,30,10,300,1 sandwich,Breakfast,Layer scrambled eggs and cheese on a toasted bagel.,Non-Veg
+137,Grilled Chicken Caesar Wrap,30,30,10,400,1 wrap,Lunch,"Fill a wrap with grilled chicken, romaine, Caesar dressing, and parmesan.",Non-Veg
+138,Vegetable & Lentil Soup,18,30,5,250,1 bowl,Dinner,Simmer lentils with mixed vegetables in vegetable broth until tender.,Veg
+140,Chicken & Quinoa Stuffed Peppers,30,35,10,400,1 pepper,Dinner,"Stuff bell peppers with chicken and quinoa, bake until tender.",Non-Veg
+141,Spinach & Cheese Omelette,20,5,10,200,1 omelette,Breakfast,"Whisk eggs, add spinach and cheese, cook until set.",Non-Veg
+142,Roasted Vegetable Quinoa Salad,12,40,5,300,1 bowl,Lunch,Toss quinoa with roasted vegetables and a lemon dressing.,Veg
+143,Chicken & Lentil Salad,30,30,5,250,1 bowl,Lunch,"Mix grilled chicken with lentils, cherry tomatoes, and spinach.",Non-Veg
+144,Baked Zucchini Chips,5,15,5,100,1 serving,Snack,"Slice zucchini, season, and bake until crispy.",Veg
+145,Mediterranean Chickpea Salad,15,30,5,250,1 bowl,Lunch,"Mix chickpeas with cucumbers, tomatoes, olives, and feta, drizzle with olive oil.",Veg
+146,Chicken & Vegetable Curry,30,20,15,400,1 bowl,Dinner,Cook chicken with mixed vegetables in coconut milk and curry spices.,Non-Veg
+147,Quinoa & Spinach Stuffed Chicken,25,5,10,300,1 breast,Dinner,"Stuff chicken breast with quinoa and spinach, bake until cooked through.",Non-Veg
+148,Grilled Eggplant Sandwich,10,30,5,200,1 sandwich,Lunch,Layer grilled eggplant with hummus and veggies on whole grain bread.,Non-Veg
+149,Chicken & Rice Pilaf,30,40,10,400,1 bowl,Dinner,"Cook chicken with rice, spices, and peas until tender.",Non-Veg
+150,Spinach & Feta Quiche,15,20,10,250,1 slice,Breakfast,Bake eggs with spinach and feta in a pie crust until set.,Veg
+151,Shrimp & Vegetable Fried Rice,25,40,10,400,1 bowl,Dinner,"Stir-fry shrimp with rice, peas, and carrots, season with soy sauce.",Non-Veg
+152,Chicken & Avocado Salad,30,10,15,350,1 bowl,Lunch,"Toss grilled chicken with avocado, mixed greens, and lime dressing.",Non-Veg
+153,Roasted Cauliflower Salad,5,15,5,100,1 bowl,Lunch,Toss roasted cauliflower with tahini dressing and parsley.,Veg
+154,Turkey & Spinach Stuffed Peppers,25,30,5,300,1 pepper,Dinner,"Stuff bell peppers with ground turkey and spinach, bake until tender.",Non-Veg
+155,Grilled Chicken & Pineapple Skewers,30,10,10,300,2 skewers,Dinner,"Skewer chicken and pineapple, grill until cooked through.",Non-Veg
+156,Quinoa & Roasted Vegetable Bowl,12,40,5,300,1 bowl,Lunch,Mix cooked quinoa with roasted vegetables and a drizzle of balsamic glaze.,Veg
+157,Egg & Veggie Breakfast Burrito,20,30,10,300,1 burrito,Breakfast,"Scramble eggs with mixed vegetables, wrap in a tortilla.",Non-Veg
+158,Chicken & Black Bean Quesadilla,30,30,10,350,1 quesadilla,Lunch,"Fill a tortilla with chicken and black beans, cook until golden.",Non-Veg
+160,Grilled Shrimp & Quinoa Salad,25,30,10,350,1 bowl,Lunch,"Toss grilled shrimp with quinoa, mixed greens, and a lemon vinaigrette.",Non-Veg
+161,Vegetable & Chickpea Curry,15,30,10,300,1 bowl,Dinner,Cook mixed vegetables and chickpeas in coconut milk with curry spices.,Veg
+162,Chicken & Sweet Potato Hash,30,40,10,400,1 bowl,Dinner,Saute chicken and sweet potatoes with onions and spices until cooked.,Non-Veg
+163,Caprese Stuffed Chicken,30,10,10,350,1 breast,Dinner,"Stuff chicken breast with mozzarella, tomatoes, and basil, bake until cooked.",Non-Veg
+164,Roasted Vegetable Pasta,12,40,10,350,1 bowl,Dinner,Toss cooked pasta with roasted vegetables and olive oil.,Veg
+165,Chicken & Spinach Salad,30,10,15,350,1 bowl,Lunch,"Toss grilled chicken with spinach, strawberries, and a balsamic dressing.",Non-Veg
+166,Quinoa & Black Bean Chili,15,30,5,250,1 bowl,Dinner,Cook quinoa and black beans with tomatoes and spices until thickened.,Veg
+167,Egg & Avocado Breakfast Bowl,12,30,15,300,1 bowl,Breakfast,"Top a bowl with scrambled eggs, avocado, and salsa.",Non-Veg
+168,Shrimp & Asparagus Stir-Fry,25,20,10,350,1 bowl,Dinner,"Stir-fry shrimp with asparagus and garlic, serve over rice.",Non-Veg
+169,Chicken & Vegetable Fajitas,30,20,10,350,2 fajitas,Dinner,"Saute chicken with bell peppers and onions, serve in tortillas.",Non-Veg
+170,Spinach & Feta Stuffed Peppers,15,30,5,250,1 pepper,Dinner,"Stuff bell peppers with spinach and feta, bake until tender.",Veg
+171,Grilled Chicken & Quinoa Bowl,30,35,10,400,1 bowl,Lunch,Serve grilled chicken over quinoa with mixed vegetables.,Non-Veg
+172,Vegetable & Lentil Salad,18,30,5,250,1 bowl,Lunch,Mix lentils with diced vegetables and a lemon vinaigrette.,Veg
+173,Baked Chicken Parmesan,30,20,10,350,1 serving,Dinner,Bake chicken with marinara sauce and mozzarella until bubbly.,Non-Veg
+174,Quinoa & Spinach Salad,12,30,5,250,1 bowl,Lunch,"Toss cooked quinoa with spinach, cherry tomatoes, and a lemon dressing.",Veg
+175,Chicken & Vegetable Soup,25,30,5,250,1 bowl,Dinner,Simmer chicken and vegetables in broth until cooked through.,Non-Veg
+176,Shrimp & Vegetable Skewers,25,10,5,200,2 skewers,Dinner,"Grill shrimp and vegetables on skewers, serve with a dipping sauce.",Non-Veg
+177,Eggplant & Chickpea Salad,10,30,10,300,1 bowl,Lunch,"Mix roasted eggplant with chickpeas, tahini, and lemon juice.",Non-Veg
+178,Chicken & Quinoa Stir-Fry,30,30,10,350,1 bowl,Dinner,Stir-fry chicken with quinoa and mixed vegetables.,Non-Veg
+179,Spinach & Mushroom Stuffed Shells,15,40,10,400,3 shells,Dinner,"Fill pasta shells with spinach and mushrooms, cover with marinara, and bake.",Veg
+180,Grilled Chicken & Vegetable Salad,30,10,10,350,1 bowl,Lunch,Toss grilled chicken with mixed greens and grilled vegetables.,Non-Veg
+181,Lentil & Vegetable Curry,18,30,5,250,1 bowl,Dinner,Cook lentils with mixed vegetables in coconut milk and curry spices.,Veg
+182,Chicken & Avocado Quesadilla,25,30,10,350,1 quesadilla,Lunch,"Fill a tortilla with chicken and avocado, cook until golden.",Non-Veg
+183,Roasted Brussels Sprouts & Bacon,5,15,10,150,1 cup,Side,Roast Brussels sprouts with bacon until crispy.,Veg
+184,Quinoa & Roasted Vegetable Salad,12,40,5,300,1 bowl,Lunch,Toss quinoa with roasted vegetables and a lemon vinaigrette.,Veg
+185,Chicken & Sweet Potato Casserole,30,40,10,400,1 serving,Dinner,"Combine chicken, sweet potatoes, and vegetables in a casserole dish, bake until bubbly.",Non-Veg
+186,Spinach & Feta Stuffed Chicken Thighs,25,5,10,300,1 thigh,Dinner,"Stuff chicken thighs with spinach and feta, bake until cooked through.",Non-Veg
+187,Shrimp & Vegetable Pasta,25,30,10,350,1 bowl,Dinner,Toss cooked pasta with shrimp and mixed vegetables in garlic sauce.,Non-Veg
+188,Chicken & Lentil Curry,30,20,10,350,1 bowl,Dinner,Cook chicken with lentils and curry spices in coconut milk.,Non-Veg
+189,Grilled Vegetable & Hummus Wrap,10,30,5,200,1 wrap,Lunch,"Fill a tortilla with grilled vegetables and hummus, roll tightly.",Veg
+190,Egg & Cheese Breakfast Bowl,20,30,10,300,1 bowl,Breakfast,"Top a bowl with scrambled eggs, cheese, and salsa.",Non-Veg
+191,Chicken & Quinoa Salad Bowl,30,35,10,400,1 bowl,Lunch,"Mix grilled chicken with quinoa, black beans, and corn.",Non-Veg
+192,Roasted Cauliflower & Chickpea Salad,10,30,5,200,1 bowl,Lunch,"Toss roasted cauliflower with chickpeas, tahini, and lemon juice.",Veg
+193,Turkey & Vegetable Stir-Fry,25,20,10,350,1 bowl,Dinner,Stir-fry ground turkey with mixed vegetables and soy sauce.,Non-Veg
+194,Spinach & Cheese Stuffed Zucchini,15,20,10,250,1 zucchini,Dinner,"Stuff zucchini halves with spinach and cheese, bake until tender.",Veg
+195,Chicken & Vegetable Frittata,30,10,15,350,1 slice,Breakfast,Bake eggs with chicken and mixed vegetables until set.,Non-Veg
+196,Quinoa & Black Bean Salad,15,30,5,250,1 bowl,Lunch,"Toss cooked quinoa with black beans, corn, and lime dressing.",Veg
+197,Shrimp & Grits Bowl,25,40,15,450,1 bowl,Dinner,"Cook shrimp in a spicy sauce, serve over creamy grits.",Non-Veg
+198,Chicken & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and teriyaki sauce, serve over rice.",Non-Veg
+199,Spinach & Feta Stuffed Portobello Mushrooms,15,5,10,200,1 mushroom,Dinner,"Stuff portobello mushrooms with spinach and feta, bake until tender.",Veg
+200,Grilled Chicken & Quinoa Salad,30,35,10,400,1 bowl,Lunch,"Toss grilled chicken with quinoa, mixed greens, and a lemon vinaigrette.",Non-Veg
+201,Grilled Chicken & Avocado Salad,30,10,15,350,1 bowl,Lunch,"Toss grilled chicken with avocado, mixed greens, and a lime vinaigrette.",Non-Veg
+202,Quinoa & Roasted Vegetable Bowl,12,40,5,300,1 bowl,Lunch,Mix cooked quinoa with roasted vegetables and a drizzle of balsamic glaze.,Veg
+203,Spicy Black Bean Tacos,15,30,5,250,2 tacos,Dinner,"Fill corn tortillas with spiced black beans, avocado, and salsa.",Veg
+204,Chicken & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+205,Lentil & Sweet Potato Salad,18,30,5,250,1 bowl,Lunch,Toss cooked lentils with roasted sweet potatoes and a light dressing.,Veg
+206,Egg & Veggie Breakfast Muffins,20,10,10,200,2 muffins,Breakfast,"Mix eggs with diced vegetables, pour into muffin tins, and bake until set.",Non-Veg
+207,Grilled Salmon & Quinoa Salad,35,30,10,400,1 bowl,Lunch,"Toss grilled salmon with quinoa, spinach, and a lemon vinaigrette.",Veg
+208,Chickpea & Spinach Stew,15,30,5,250,1 bowl,Dinner,Simmer chickpeas and spinach in a spiced tomato sauce.,Veg
+209,Turkey & Vegetable Chili,30,20,10,350,1 bowl,Dinner,"Cook ground turkey with beans, tomatoes, and spices until thickened.",Non-Veg
+210,Cauliflower Fried Rice,10,20,5,150,1 bowl,Dinner,Saute riced cauliflower with mixed vegetables and soy sauce.,Veg
+211,Spinach & Feta Stuffed Chicken,25,5,10,300,1 breast,Dinner,"Stuff chicken breast with spinach and feta, bake until cooked through.",Non-Veg
+212,Grilled Vegetable & Hummus Wrap,10,30,5,200,1 wrap,Lunch,"Fill a tortilla with grilled vegetables and hummus, roll tightly.",Veg
+213,Chicken & Quinoa Stuffed Peppers,30,35,10,400,1 pepper,Dinner,"Stuff bell peppers with chicken and quinoa, bake until tender.",Non-Veg
+214,Shrimp & Avocado Salad,25,10,15,300,1 bowl,Lunch,"Toss shrimp with avocado, mixed greens, and lime dressing.",Non-Veg
+215,Baked Sweet Potato Fries,5,30,5,150,1 serving,Snack,"Cut sweet potatoes into fries, season, and bake until crispy.",Veg
+216,Quinoa & Spinach Stuffed Zucchini,12,20,5,200,1 zucchini,Dinner,"Stuff zucchini halves with quinoa and spinach, bake until tender.",Veg
+217,Chicken & Lentil Soup,25,30,5,250,1 bowl,Dinner,"Simmer chicken, lentils, and vegetables in broth until cooked.",Non-Veg
+218,Grilled Eggplant & Tomato Salad,10,15,5,150,1 bowl,Lunch,"Toss grilled eggplant with tomatoes, basil, and balsamic vinegar.",Non-Veg
+220,Spinach & Mushroom Quiche,15,20,10,250,1 slice,Breakfast,Bake eggs with spinach and mushrooms in a pie crust until set.,Veg
+221,Shrimp & Broccoli Alfredo,25,30,15,400,1 bowl,Dinner,"Cook shrimp with broccoli in a creamy Alfredo sauce, serve over pasta.",Non-Veg
+222,Quinoa & Chickpea Salad,15,30,5,250,1 bowl,Lunch,"Toss cooked quinoa with chickpeas, cucumbers, and a lemon dressing.",Veg
+223,Chicken & Vegetable Casserole,30,40,10,400,1 serving,Dinner,"Combine chicken and mixed vegetables in a casserole dish, bake until bubbly.",Non-Veg
+224,Baked Zucchini & Tomato Casserole,10,20,5,200,1 serving,Dinner,"Layer zucchini and tomatoes, top with cheese, and bake until golden.",Veg
+225,Grilled Chicken & Pineapple Salad,30,15,10,350,1 bowl,Lunch,"Toss grilled chicken with pineapple, mixed greens, and a honey dressing.",Non-Veg
+226,Lentil & Vegetable Stir-Fry,18,30,5,250,1 bowl,Dinner,"Stir-fry lentils with mixed vegetables and soy sauce, serve over rice.",Veg
+227,Egg & Spinach Breakfast Bowl,20,30,10,300,1 bowl,Breakfast,"Top a bowl with scrambled eggs, spinach, and feta cheese.",Non-Veg
+228,Chicken & Quinoa Bowl,30,35,10,400,1 bowl,Lunch,Serve grilled chicken over quinoa with roasted vegetables.,Non-Veg
+229,Roasted Beet & Goat Cheese Salad,8,15,5,150,1 bowl,Lunch,"Toss roasted beets with goat cheese, walnuts, and arugula.",Veg
+230,Shrimp & Vegetable Stir-Fry,25,20,10,350,1 bowl,Dinner,"Stir-fry shrimp with mixed vegetables and garlic, serve over rice.",Non-Veg
+231,Chicken & Sweet Potato Salad,30,20,10,350,1 bowl,Lunch,Toss grilled chicken with roasted sweet potatoes and mixed greens.,Non-Veg
+232,Quinoa & Black Bean Stuffed Zucchini,15,30,5,250,1 zucchini,Dinner,"Stuff zucchini halves with quinoa and black beans, bake until tender.",Veg
+233,Grilled Chicken & Vegetable Kebabs,30,10,10,300,2 skewers,Dinner,"Skewer chicken and vegetables, grill until cooked through.",Non-Veg
+234,Spinach & Feta Stuffed Portobello,15,5,10,200,1 mushroom,Dinner,"Stuff portobello mushrooms with spinach and feta, bake until tender.",Veg
+235,Chicken & Lentil Salad,30,30,5,250,1 bowl,Lunch,"Mix grilled chicken with lentils, cherry tomatoes, and spinach.",Non-Veg
+236,Baked Eggplant Parmesan,10,20,10,250,1 serving,Dinner,"Layer baked eggplant with marinara sauce and mozzarella, bake until bubbly.",Non-Veg
+237,Quinoa & Roasted Vegetable Salad,12,40,5,300,1 bowl,Lunch,Toss quinoa with roasted vegetables and a lemon vinaigrette.,Veg
+238,Chicken & Vegetable Soup,25,30,5,250,1 bowl,Dinner,Simmer chicken and vegetables in broth until cooked through.,Non-Veg
+239,Shrimp & Asparagus Pasta,25,30,10,350,1 bowl,Dinner,Toss cooked pasta with shrimp and asparagus in a garlic sauce.,Non-Veg
+240,Spinach & Cheese Stuffed Chicken Thighs,25,5,10,300,1 thigh,Dinner,"Stuff chicken thighs with spinach and cheese, bake until cooked through.",Non-Veg
+241,Grilled Vegetable Pasta,12,40,10,350,1 bowl,Dinner,Toss cooked pasta with grilled vegetables and olive oil.,Veg
+242,Chicken & Quinoa Salad,30,35,10,400,1 bowl,Lunch,"Mix grilled chicken with quinoa, black beans, and corn.",Non-Veg
+243,Roasted Brussels Sprouts & Bacon,5,15,10,150,1 cup,Side,Roast Brussels sprouts with bacon until crispy.,Veg
+244,Quinoa & Spinach Stuffed Peppers,12,30,5,250,1 pepper,Dinner,"Stuff bell peppers with quinoa and spinach, bake until tender.",Veg
+245,Chicken & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and teriyaki sauce, serve over rice.",Non-Veg
+246,Egg & Veggie Breakfast Burrito,20,30,10,300,1 burrito,Breakfast,"Scramble eggs with mixed vegetables, wrap in a tortilla.",Non-Veg
+247,Grilled Chicken Caesar Salad,30,10,15,350,1 bowl,Lunch,"Toss grilled chicken with romaine, Caesar dressing, and parmesan.",Non-Veg
+248,Lentil & Vegetable Curry,18,30,5,250,1 bowl,Dinner,Cook lentils with mixed vegetables in coconut milk and curry spices.,Veg
+249,Shrimp & Vegetable Fried Rice,25,40,10,400,1 bowl,Dinner,"Stir-fry shrimp with rice, peas, and carrots, season with soy sauce.",Non-Veg
+250,Chicken & Sweet Potato Hash,30,40,10,400,1 bowl,Dinner,Saute chicken and sweet potatoes with onions and spices until cooked.,Non-Veg
+251,Spinach & Feta Stuffed Chicken Breast,25,5,10,300,1 breast,Dinner,"Stuff chicken breast with spinach and feta, bake until cooked through.",Non-Veg
+252,Grilled Chicken & Quinoa Bowl,30,35,10,400,1 bowl,Lunch,Serve grilled chicken over quinoa with mixed vegetables.,Non-Veg
+253,Roasted Vegetable Quinoa Salad,12,40,5,300,1 bowl,Lunch,Toss quinoa with roasted vegetables and a lemon dressing.,Veg
+254,Chicken & Lentil Soup,25,30,5,250,1 bowl,Dinner,"Simmer chicken, lentils, and vegetables in broth until cooked.",Non-Veg
+255,Shrimp & Broccoli Stir-Fry,25,20,10,350,1 bowl,Dinner,"Stir-fry shrimp with broccoli and garlic, serve over rice.",Non-Veg
+256,Eggplant & Chickpea Salad,10,30,10,300,1 bowl,Lunch,"Mix roasted eggplant with chickpeas, tahini, and lemon juice.",Non-Veg
+257,Chicken & Quinoa Stir-Fry,30,30,10,350,1 bowl,Dinner,Stir-fry chicken with quinoa and mixed vegetables.,Non-Veg
+258,Spinach & Mushroom Stuffed Shells,15,40,10,400,3 shells,Dinner,"Fill pasta shells with spinach and mushrooms, cover with marinara, and bake until bubbly.",Veg
+259,Grilled Chicken & Vegetable Salad,30,10,10,350,1 bowl,Lunch,Toss grilled chicken with mixed greens and grilled vegetables.,Non-Veg
+260,Lentil & Vegetable Curry,18,30,5,250,1 bowl,Dinner,Cook lentils with mixed vegetables in coconut milk and curry spices.,Veg
+261,Chicken & Avocado Quesadilla,25,30,10,350,1 quesadilla,Lunch,"Fill a tortilla with chicken and avocado, cook until golden.",Non-Veg
+262,Roasted Brussels Sprouts & Bacon,5,15,10,150,1 cup,Side,Roast Brussels sprouts with bacon until crispy.,Veg
+263,Quinoa & Roasted Vegetable Salad,12,40,5,300,1 bowl,Lunch,Toss quinoa with roasted vegetables and a lemon vinaigrette.,Veg
+264,Chicken & Sweet Potato Casserole,30,40,10,400,1 serving,Dinner,"Combine chicken, sweet potatoes, and vegetables in a casserole dish, bake until bubbly.",Non-Veg
+265,Spinach & Feta Stuffed Chicken Thighs,25,5,10,300,1 thigh,Dinner,"Stuff chicken thighs with spinach and feta, bake until cooked through.",Non-Veg
+266,Shrimp & Vegetable Pasta,25,30,10,350,1 bowl,Dinner,Toss cooked pasta with shrimp and mixed vegetables in garlic sauce.,Non-Veg
+267,Chicken & Lentil Curry,30,20,10,350,1 bowl,Dinner,Cook chicken with lentils and curry spices in coconut milk.,Non-Veg
+268,Grilled Vegetable & Hummus Wrap,10,30,5,200,1 wrap,Lunch,"Fill a tortilla with grilled vegetables and hummus, roll tightly.",Veg
+269,Egg & Cheese Breakfast Bowl,20,30,10,300,1 bowl,Breakfast,"Top a bowl with scrambled eggs, cheese, and salsa.",Non-Veg
+270,Chicken & Quinoa Salad Bowl,30,35,10,400,1 bowl,Lunch,"Mix grilled chicken with quinoa, black beans, and corn.",Non-Veg
+271,Roasted Cauliflower & Chickpea Salad,10,30,5,200,1 bowl,Lunch,"Toss roasted cauliflower with chickpeas, tahini, and lemon juice.",Veg
+272,Turkey & Vegetable Stir-Fry,25,20,10,350,1 bowl,Dinner,Stir-fry ground turkey with mixed vegetables and soy sauce.,Non-Veg
+273,Spinach & Cheese Stuffed Zucchini,15,20,10,250,1 zucchini,Dinner,"Stuff zucchini halves with spinach and cheese, bake until tender.",Veg
+274,Chicken & Vegetable Frittata,30,10,15,350,1 slice,Breakfast,Bake eggs with chicken and mixed vegetables until set.,Non-Veg
+275,Quinoa & Black Bean Salad,15,30,5,250,1 bowl,Lunch,"Toss cooked quinoa with black beans, corn, and lime dressing.",Veg
+276,Shrimp & Grits Bowl,25,40,15,450,1 bowl,Dinner,"Cook shrimp in a spicy sauce, serve over creamy grits.",Non-Veg
+277,Chicken & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and teriyaki sauce, serve over rice.",Non-Veg
+278,Spinach & Feta Stuffed Portobello Mushrooms,15,5,10,200,1 mushroom,Dinner,"Stuff portobello mushrooms with spinach and feta, bake until tender",Veg
+280,Lentil & Vegetable Curry,18,30,5,250,1 bowl,Dinner,Cook lentils with mixed vegetables in coconut milk and curry spices.,Veg
+281,Chicken & Avocado Quesadilla,25,30,10,350,1 quesadilla,Lunch,"Fill a tortilla with chicken and avocado, cook until golden.",Non-Veg
+282,Roasted Brussels Sprouts & Bacon,5,15,10,150,1 cup,Side,Roast Brussels sprouts with bacon until crispy.,Veg
+283,Quinoa & Roasted Vegetable Salad,12,40,5,300,1 bowl,Lunch,Toss quinoa with roasted vegetables and a lemon vinaigrette.,Veg
+284,Chicken & Sweet Potato Casserole,30,40,10,400,1 serving,Dinner,"Combine chicken, sweet potatoes, and vegetables in a casserole dish, bake until bubbly.",Non-Veg
+285,Spinach & Feta Stuffed Chicken Thighs,25,5,10,300,1 thigh,Dinner,"Stuff chicken thighs with spinach and feta, bake until cooked through.",Non-Veg
+286,Shrimp & Vegetable Pasta,25,30,10,350,1 bowl,Dinner,Toss cooked pasta with shrimp and mixed vegetables in garlic sauce.,Non-Veg
+287,Chicken & Lentil Curry,30,20,10,350,1 bowl,Dinner,Cook chicken with lentils and curry spices in coconut milk.,Non-Veg
+288,Grilled Vegetable & Hummus Wrap,10,30,5,200,1 wrap,Lunch,"Fill a tortilla with grilled vegetables and hummus, roll tightly.",Veg
+289,Egg & Cheese Breakfast Bowl,20,30,10,300,1 bowl,Breakfast,"Top a bowl with scrambled eggs, cheese, and salsa.",Non-Veg
+290,Chicken & Quinoa Salad Bowl,30,35,10,400,1 bowl,Lunch,"Mix grilled chicken with quinoa, black beans, and corn.",Non-Veg
+291,Roasted Cauliflower & Chickpea Salad,10,30,5,200,1 bowl,Lunch,"Toss roasted cauliflower with chickpeas, tahini, and lemon juice.",Veg
+292,Turkey & Vegetable Stir-Fry,25,20,10,350,1 bowl,Dinner,Stir-fry ground turkey with mixed vegetables and soy sauce.,Non-Veg
+293,Spinach & Cheese Stuffed Zucchini,15,20,10,250,1 zucchini,Dinner,"Stuff zucchini halves with spinach and cheese, bake until tender.",Veg
+294,Chicken & Vegetable Frittata,30,10,15,350,1 slice,Breakfast,Bake eggs with chicken and mixed vegetables until set.,Non-Veg
+295,Quinoa & Black Bean Salad,15,30,5,250,1 bowl,Lunch,"Toss cooked quinoa with black beans, corn, and lime dressing.",Veg
+296,Shrimp & Grits Bowl,25,40,15,450,1 bowl,Dinner,"Cook shrimp in a spicy sauce, serve over creamy grits.",Non-Veg
+297,Chicken & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and teriyaki sauce, serve over rice.",Non-Veg
+298,Spinach & Feta Stuffed Portobello Mushrooms,15,5,10,200,1 mushroom,Dinner,"Stuff portobello mushrooms with spinach and feta , bake until tender.",Veg
+299,Grilled Chicken & Quinoa Salad,30,35,10,400,1 bowl,Lunch,"Toss grilled chicken with quinoa, mixed greens, and a lemon vinaigrette.",Non-Veg
+300,Lentil & Vegetable Curry,18,30,5,250,1 bowl,Dinner,Cook lentils with mixed vegetables in coconut milk and curry spices.,Veg
+301,Banana Oatmeal,8,30,3,200,1 bowl,Breakfast,"Cook oats with water or milk, add sliced banana and a drizzle of honey.",Veg
+302,Greek Yogurt with Honey,15,20,5,200,1 cup,Breakfast,Top Greek yogurt with honey and nuts or granola.,Veg
+303,Scrambled Eggs with Spinach,20,5,10,200,2 eggs,Breakfast,Scramble eggs with fresh spinach and season with salt and pepper.,Non-Veg
+304,Chia Seed Pudding,10,20,5,200,1 cup,Breakfast,"Mix chia seeds with almond milk, refrigerate overnight, and top with fruits.",Veg
+305,Avocado Toast,5,30,15,250,1 slice,Breakfast,"Mash avocado on whole grain toast, sprinkle with salt and pepper.",Veg
+306,Protein Pancakes,25,30,8,350,3 pancakes,Breakfast,"Mix protein powder, oats, and eggs, cook on skillet until golden.",Veg
+307,Smoothie Bowl,10,40,5,250,1 bowl,Breakfast,"Blend fruits with yogurt, pour into a bowl, and top with granola and seeds.",Veg
+308,Overnight Chia Oats,10,30,5,250,1 jar,Breakfast,"Mix oats, chia seeds, and almond milk, refrigerate overnight, and add fruits in the morning.",Veg
+309,Egg & Veggie Breakfast Wrap,20,30,10,300,1 wrap,Breakfast,"Scramble eggs with mixed vegetables, wrap in a tortilla.",Non-Veg
+310,Cottage Cheese & Pineapple,15,20,2,150,1 cup,Breakfast,"Mix cottage cheese with pineapple chunks, serve chilled.",Veg
+311,Quinoa Breakfast Bowl,12,35,5,250,1 bowl,Breakfast,"Cook quinoa, top with almond milk, fruits, and nuts.",Veg
+312,Peanut Butter Banana Smoothie,10,30,10,250,1 glass,Breakfast,"Blend banana, peanut butter, and almond milk until smooth.",Veg
+313,Oatmeal with Berries,10,40,5,250,1 bowl,Breakfast,"Cook oats, top with mixed berries and a drizzle of honey.",Veg
+314,Egg White Omelette,20,5,5,150,1 omelette,Breakfast,"Whisk egg whites, add veggies, cook in a skillet until set.",Non-Veg
+315,Breakfast Burrito,25,30,10,350,1 burrito,Breakfast,"Fill a tortilla with scrambled eggs, cheese, and salsa, roll tightly.",Veg
+316,Almond Butter Toast,8,30,10,250,1 slice,Breakfast,"Spread almond butter on whole grain toast, top with banana slices.",Veg
+317,Fruit & Nut Granola,5,40,5,200,1 cup,Breakfast,"Mix oats, nuts, and dried fruits, serve with yogurt or milk.",Veg
+318,Savory Oatmeal,10,30,5,200,1 bowl,Breakfast,"Cook oats with broth, top with Sauteed vegetables and a poached egg.",Veg
+319,Breakfast Quinoa Bowl,12,35,5,250,1 bowl,Breakfast,"Cook quinoa, top with almond milk, fruits, and a sprinkle of cinnamon.",Veg
+320,Spinach & Feta Omelette,20,5,10,200,1 omelette,Breakfast,"Whisk eggs, add spinach and feta, cook in a skillet until set.",Non-Veg
+321,Berry Smoothie,10,30,5,200,1 glass,Breakfast,Blend mixed berries with yogurt and a splash of almond milk.,Veg
+322,Whole Wheat Pancakes,8,40,5,250,3 pancakes,Breakfast,"Mix whole wheat flour, baking powder, and milk, cook on skillet until golden.",Veg
+323,Savory Breakfast Bowl,15,25,10,300,1 bowl,Breakfast,"Combine quinoa, Sauteed vegetables, and a poached egg.",Veg
+324,Apple Cinnamon Oatmeal,8,35,3,200,1 bowl,Breakfast,"Cook oats with diced apples and cinnamon, sweeten with honey.",Veg
+325,Breakfast Smoothie Bowl,12,40,5,250,1 bowl,Breakfast,"Blend banana, spinach, and almond milk, top with granola and seeds.",Veg
+326,Egg & Cheese Breakfast Sandwich,20,30,10,300,1 sandwich,Breakfast,"Fry an egg, place on a whole grain bun with cheese and spinach.",Non-Veg
+327,Coconut Chia Pudding,10,20,8,250,1 cup,Breakfast,"Mix chia seeds with coconut milk, refrigerate overnight, and top with mango.",Veg
+328,Breakfast Tacos,25,30,10,350,2 tacos,Breakfast,"Fill corn tortillas with scrambled eggs, avocado, and salsa.",Veg
+329,Spinach & Mushroom Frittata,20,5,10,200,1 slice,Breakfast,Bake eggs with spinach and mushrooms in a skillet until set.,Veg
+330,Overnight Oats with Almonds,10,30,5,250,1 jar,Breakfast,"Combine oats, almond milk, and almonds, refrigerate overnight.",Veg
+331,Sweet Potato Hash,5,40,10,250,1 bowl,Breakfast,Saute sweet potatoes with onions and bell peppers until tender.,Veg
+332,Yogurt Parfait,15,30,5,200,1 cup,Breakfast,Layer yogurt with granola and fresh fruits in a glass.,Veg
+333,Breakfast Couscous,12,35,5,250,1 bowl,Breakfast,"Cook couscous, mix with fruits and nuts, and drizzle with honey.",Veg
+334,Zucchini Fritters,10,20,8,200,3 fritters,Breakfast,"Grate zucchini, mix with eggs and flour, pan-fry until golden.",Veg
+335,Breakfast Sushi,15,40,5,300,4 rolls,Breakfast,"Roll sushi rice with avocado, cucumber, and smoked salmon.",Veg
+336,Quinoa & Black Bean Bowl,12,35,5,250,1 bowl,Breakfast,"Mix cooked quinoa with black beans, corn, and avocado.",Veg
+337,Egg & Avocado Toast,10,30,15,250,1 slice,Breakfast,Top whole grain toast with smashed avocado and a poached egg.,Non-Veg
+338,Muesli with Yogurt,10,40,5,250,1 bowl,Breakfast,Combine muesli with yogurt and fresh fruits.,Veg
+339,Savory Breakfast Muffins,8,30,5,200,2 muffins,Breakfast,"Bake muffins with eggs, cheese, and spinach.",Veg
+341,Spinach & Cheese Quesadilla,15,30,10,300,1 quesadilla,Breakfast,"Fill a tortilla with spinach and cheese, cook on skillet until crispy.",Veg
+342,Breakfast Fruit Salad,5,40,2,150,1 bowl,Breakfast,"Combine a variety of fresh fruits, drizzle with honey and lime juice.",Veg
+343,Savory Oatmeal Bowl,10,30,5,200,1 bowl,Breakfast,"Cook oats with vegetable broth, top with Sauteed mushrooms and a poached egg.",Veg
+344,Almond Joy Overnight Oats,10,35,8,250,1 jar,Breakfast,"Mix oats with almond milk, cocoa powder, and shredded coconut, refrigerate overnight.",Veg
+345,Breakfast Egg Muffins,20,5,10,200,2 muffins,Breakfast,"Whisk eggs with veggies, pour into muffin tins, and bake until set.",Non-Veg
+346,Coconut Yogurt Bowl,15,20,10,250,1 bowl,Breakfast,Top coconut yogurt with granola and fresh fruits.,Veg
+347,Sweet Potato & Black Bean Bowl,10,40,5,250,1 bowl,Breakfast,Mix roasted sweet potatoes with black beans and avocado.,Veg
+348,Breakfast Chia Bowl,10,30,5,200,1 bowl,Breakfast,"Combine chia seeds with almond milk, top with fruits and nuts.",Veg
+349,Egg & Spinach Breakfast Bowl,20,5,10,200,1 bowl,Breakfast,Scramble eggs with spinach and serve over whole grain toast.,Non-Veg
+350,Quinoa & Fruit Salad,12,35,5,250,1 bowl,Breakfast,Mix cooked quinoa with diced fruits and a squeeze of lime.,Veg
+351,Peanut Butter & Apple Toast,8,30,10,250,1 slice,Breakfast,"Spread peanut butter on whole grain toast, top with apple slices.",Veg
+352,Breakfast Smoothie,10,40,5,250,1 glass,Breakfast,"Blend banana, spinach, and almond milk until smooth.",Veg
+353,Savory Breakfast Bowl,15,25,10,300,1 bowl,Breakfast,"Combine quinoa, Sauteed vegetables, and a poached egg.",Veg
+354,Egg & Veggie Breakfast Bowl,20,30,10,300,1 bowl,Breakfast,"Scramble eggs with mixed vegetables, serve in a bowl.",Non-Veg
+355,Berry Overnight Oats,10,30,5,250,1 jar,Breakfast,"Combine oats, almond milk, and mixed berries, refrigerate overnight.",Veg
+356,Breakfast Tofu Scramble,15,10,5,200,1 bowl,Breakfast,Saute crumbled tofu with vegetables and spices.,Veg
+357,Whole Wheat Waffles,8,40,5,250,2 waffles,Breakfast,"Mix whole wheat flour, baking powder, and milk, cook in a waffle maker.",Veg
+358,Breakfast Pita,15,30,5,250,1 pita,Breakfast,"Fill a pita with scrambled eggs, spinach, and feta cheese.",Veg
+359,Avocado & Tomato Salad,5,15,10,150,1 bowl,Breakfast,"Combine diced avocado and tomatoes, drizzle with olive oil and lemon juice.",Veg
+361,Spinach & Feta Breakfast Wrap,20,30,10,300,1 wrap,Breakfast,"Fill a tortilla with scrambled eggs, spinach, and feta cheese, roll tightly.",Veg
+362,Berry Protein Smoothie,15,30,5,250,1 glass,Breakfast,Blend mixed berries with protein powder and almond milk until smooth.,Veg
+363,Breakfast Egg Salad,20,5,10,200,1 sandwich,Breakfast,"Mix chopped hard-boiled eggs with Greek yogurt, mustard, and seasonings, serve on bread.",Non-Veg
+364,Quinoa & Spinach Salad,12,35,5,250,1 bowl,Breakfast,"Combine cooked quinoa with fresh spinach, cherry tomatoes, and a vinaigrette.",Veg
+365,Sweet Potato & Egg Bowl,10,30,5,200,1 bowl,Breakfast,"Roast sweet potatoes, top with a fried egg and avocado.",Non-Veg
+366,Breakfast Fruit Smoothie,10,40,5,250,1 glass,Breakfast,"Blend banana, mango, and yogurt until smooth.",Veg
+367,Savory Breakfast Quinoa,12,30,5,250,1 bowl,Breakfast,"Cook quinoa, mix with Sauteed vegetables and a poached egg.",Veg
+368,Almond & Berry Overnight Oats,10,35,8,250,1 jar,Breakfast,"Combine oats, almond milk, and berries, refrigerate overnight.",Veg
+369,Breakfast Veggie Bowl,15,25,10,300,1 bowl,Breakfast,"Saute mixed vegetables, serve with a poached egg on top.",Non-Veg
+370,Coconut & Berry Chia Pudding,10,20,8,250,1 cup,Breakfast,"Mix chia seeds with coconut milk and berries, refrigerate overnight.",Veg
+371,Breakfast Egg & Avocado Bowl,20,5,15,250,1 bowl,Breakfast,"Scramble eggs, serve over sliced avocado and whole grain toast.",Non-Veg
+372,Spinach & Tomato Omelette,20,5,10,200,1 omelette,Breakfast,"Whisk eggs, add spinach and tomatoes, cook until set.",Non-Veg
+373,Breakfast Banana Split,5,40,5,200,1 split,Breakfast,"Slice a banana, top with yogurt and granola.",Veg
+374,Savory Breakfast Muffins,8,30,5,200,2 muffins,Breakfast,"Bake muffins with eggs, cheese, and vegetables.",Veg
+375,Quinoa & Egg Breakfast Bowl,12,30,5,250,1 bowl,Breakfast,Mix cooked quinoa with a fried egg and avocado.,Non-Veg
+376,Breakfast Veggie Frittata,20,5,10,200,1 slice,Breakfast,Bake eggs with mixed vegetables in a skillet until set.,Non-Veg
+377,Peanut Butter & Banana Smoothie,10,30,10,250,1 glass,Breakfast,"Blend banana, peanut butter, and almond milk until smooth.",Veg
+378,Breakfast Chia Seed Bowl,10,30,5,200,1 bowl,Breakfast,"Combine chia seeds with almond milk, top with fruits and nuts.",Veg
+379,Egg & Cheese Breakfast Quesadilla,20,30,10,300,1 quesadilla,Breakfast,"Fill a tortilla with scrambled eggs and cheese, cook until crispy.",Non-Veg
+380,Berry & Yogurt Parfait,15,30,5,200,1 cup,Breakfast,Layer yogurt with mixed berries and granola.,Veg
+381,Breakfast Tofu & Veggie Scramble,15,10,5,200,1 bowl,Breakfast,Saute crumbled tofu with vegetables and spices.,Non-Veg
+382,Whole Wheat Banana Pancakes,8,40,5,250,3 pancakes,Breakfast,Breakfast,Veg
+383,Spinach & Feta Breakfast Bowl,20,5,10,200,1 bowl,Breakfast,"Saute spinach, mix with eggs and feta, cook until set.",Veg
+384,Breakfast Quinoa & Fruit Bowl,12,35,5,250,1 bowl,Breakfast,Combine cooked quinoa with diced fruits and a drizzle of honey.,Veg
+385,Avocado & Egg Breakfast Sandwich,10,30,15,300,1 sandwich,Breakfast,Layer avocado and a fried egg on whole grain bread.,Non-Veg
+386,Coconut & Almond Overnight Oats,10,35,8,250,1 jar,Breakfast,"Mix oats with coconut milk and almonds, refrigerate overnight.",Veg
+387,Breakfast Veggie Wrap,15,30,10,300,1 wrap,Breakfast,"Fill a tortilla with scrambled eggs, mixed veggies, and cheese.",Non-Veg
+388,Berry & Spinach Smoothie,10,30,5,200,1 glass,Breakfast,"Blend spinach, mixed berries, and yogurt until smooth.",Veg
+389,Sweet Potato & Egg Breakfast Bowl,10,30,5,200,1 bowl,Breakfast,"Roast sweet potatoes, top with a fried egg and avocado.",Non-Veg
+390,Breakfast Fruit & Nut Bowl,5,40,5,200,1 bowl,Breakfast,"Combine a variety of nuts and fresh fruits, drizzle with honey.",Veg
+391,Savory Breakfast Quinoa Bowl,12,30,5,250,1 bowl,Breakfast,"Cook quinoa, mix with Sauteed vegetables and a poached egg.",Veg
+392,Egg & Spinach Breakfast Wrap,20,30,10,300,1 wrap,Breakfast,"Fill a tortilla with scrambled eggs and spinach, roll tightly.",Non-Veg
+393,Breakfast Chia Seed Pudding,10,20,5,200,1 cup,Breakfast,"Mix chia seeds with almond milk, refrigerate overnight, and top with fruits.",Veg
+394,Whole Wheat Breakfast Muffins,8,30,5,200,2 muffins,Breakfast,"Bake muffins with whole wheat flour, eggs, and fruits.",Veg
+395,Breakfast Egg & Veggie Bowl,20,5,10,200,1 bowl,Breakfast,"Scramble eggs with mixed vegetables, serve in a bowl.",Non-Veg
+396,Quinoa & Berry Breakfast Bowl,12,35,5,250,1 bowl,Breakfast,Combine cooked quinoa with mixed berries and a drizzle of honey.,Veg
+397,Peanut Butter & Banana Overnight Oats,10,30,10,250,1 jar,Breakfast,"Mix oats with almond milk, peanut butter, and banana, refrigerate overnight.",Veg
+398,Breakfast Veggie Frittata,20,5,10,200,1 slice,Breakfast,Bake eggs with mixed vegetables in a skillet until set.,Non-Veg
+399,Berry & Yogurt Smoothie,15,30,5,200,1 glass,Breakfast,Blend yogurt with mixed berries and a splash of almond milk.,Veg
+400,Breakfast Tofu & Spinach Scramble,15,10,5,200,1 bowl,Breakfast,Saute crumbled tofu with spinach and spices.,Veg
+401,Grilled Chicken Salad,30,10,5,250,1 bowl,Lunch,"Grill chicken, chop veggies, mix with dressing, serve chilled.",Non-Veg
+402,Quinoa & Black Bean Bowl,15,40,5,300,1 bowl,Lunch,"Cook quinoa, mix with black beans, corn, and spices, serve warm.",Veg
+403,Chickpea Salad,12,35,8,280,1 bowl,Lunch,"Mix chickpeas, cucumber, tomatoes, and dressing, serve chilled.",Veg
+404,Turkey & Avocado Wrap,25,30,15,400,1 wrap,Lunch,"Spread avocado on wrap, layer turkey and veggies, roll tightly.",Non-Veg
+405,Lentil Soup,18,30,3,220,1 bowl,Lunch,"Cook lentils with veggies and broth until tender, season to taste.",Veg
+406,Spinach & Feta Quinoa Bowl,12,35,5,250,1 bowl,Lunch,"Toss cooked quinoa with spinach, feta, and a lemon vinaigrette.",Veg
+407,Grilled Veggie Wrap,10,30,5,200,1 wrap,Lunch,"Grill assorted veggies, wrap in a tortilla with hummus.",Non-Veg
+408,Chicken Caesar Salad,30,10,15,400,1 bowl,Lunch,"Toss romaine with grilled chicken, Caesar dressing, croutons, and parmesan.",Non-Veg
+409,Quinoa Salad,12,30,5,250,1 bowl,Lunch,"Mix cooked quinoa with cherry tomatoes, cucumber, and feta, drizzle with olive oil.",Veg
+410,Mediterranean Chickpea Bowl,15,30,5,250,1 bowl,Lunch,"Combine chickpeas with cucumbers, tomatoes, olives, and feta, drizzle with olive oil.",Veg
+411,Shrimp Tacos,25,30,10,350,2 tacos,Lunch,"Cook shrimp with spices, serve in corn tortillas with slaw.",Non-Veg
+412,Baked Sweet Potato,4,30,0,120,1 potato,Lunch,"Bake sweet potato at 400°F for 45 minutes, serve with toppings of choice.",Veg
+413,Chicken & Quinoa Salad,30,35,10,400,1 bowl,Lunch,"Mix grilled chicken with quinoa, black beans, and corn.",Non-Veg
+414,Veggie Burger,15,30,5,250,1 burger,Lunch,"Grill veggie patty, serve on a bun with lettuce and tomato.",Non-Veg
+415,Tuna Salad,25,5,10,200,1 bowl,Lunch,"Mix canned tuna with mayo, celery, and onions, serve on lettuce.",Veg
+416,Chicken & Broccoli Stir-Fry,30,20,10,350,1 bowl,Lunch,"Stir-fry chicken with broccoli and soy sauce, serve over brown rice.",Non-Veg
+417,Caprese Salad,10,5,15,200,1 plate,Lunch,"Layer fresh mozzarella, tomatoes, and basil, drizzle with balsamic glaze.",Veg
+418,Quinoa & Roasted Veggie Bowl,12,40,5,300,1 bowl,Lunch,Toss cooked quinoa with roasted vegetables and a lemon dressing.,Non-Veg
+419,Chicken & Lentil Salad,30,30,5,400,1 bowl,Lunch,"Mix grilled chicken with lentils, spinach, and a vinaigrette.",Non-Veg
+420,Greek Salad,10,10,15,200,1 bowl,Lunch,"Combine cucumbers, tomatoes, olives, and feta, drizzle with olive oil.",Veg
+421,BBQ Chicken Wrap,25,30,10,350,1 wrap,Lunch,"Fill a tortilla with BBQ chicken, lettuce, and cheese, roll tightly.",Non-Veg
+422,Vegetable Stir-Fry,10,20,5,200,1 bowl,Lunch,"Stir-fry mixed vegetables with soy sauce, serve over rice or noodles.",Veg
+423,Salmon Salad,25,5,15,300,1 bowl,Lunch,"Mix canned salmon with Greek yogurt, celery, and dill, serve on greens.",Veg
+424,Pesto Pasta Salad,12,40,10,300,1 bowl,Lunch,"Toss cooked pasta with pesto, cherry tomatoes, and mozzarella.",Veg
+425,Chicken Fajita Bowl,30,30,10,400,1 bowl,Lunch,"Saute chicken with bell peppers and onions, serve over rice.",Non-Veg
+426,Lentil & Spinach Salad,18,30,5,250,1 bowl,Lunch,"Mix cooked lentils with spinach, cherry tomatoes, and a lemon dressing.",Veg
+427,Turkey & Cheese Sandwich,25,30,10,350,1 sandwich,Lunch,"Layer turkey and cheese on whole grain bread, add lettuce and tomato.",Non-Veg
+428,Shrimp & Avocado Salad,25,10,15,300,1 bowl,Lunch,"Toss shrimp with avocado, lime juice, and cilantro, serve chilled.",Non-Veg
+429,Quinoa & Chickpea Salad,15,35,5,250,1 bowl,Lunch,"Mix cooked quinoa with chickpeas, cucumber, and a lemon vinaigrette.",Veg
+430,Grilled Chicken & Veggie Bowl,30,20,10,350,1 bowl,Lunch,"Grill chicken and assorted vegetables, serve over brown rice.",Non-Veg
+431,Spinach & Feta Stuffed Peppers,12,30,5,250,2 peppers,Lunch,"Stuff bell peppers with spinach, feta, and quinoa, bake until tender.",Veg
+432,Chicken & Rice Casserole,30,40,10,400,1 serving,Lunch,"Bake chicken with rice, cream of mushroom soup, and veggies until cooked through.",Non-Veg
+433,Veggie Sushi Rolls,10,40,5,250,6 rolls,Lunch,"Roll sushi rice with cucumber, avocado, and carrots, serve with soy sauce.",Non-Veg
+434,Beef & Broccoli Stir-Fry,25,20,10,350,1 bowl,Lunch,"Stir-fry beef with broccoli and soy sauce, serve over rice.",Non-Veg
+435,Mediterranean Quinoa Salad,12,35,5,250,1 bowl,Lunch,"Combine quinoa with olives, tomatoes, cucumber, and feta, drizzle with olive oil.",Veg
+436,Chicken & Avocado Salad,30,10,15,300,1 bowl,Lunch,"Toss grilled chicken with avocado, lime juice, and cilantro.",Non-Veg
+437,Tuna & White Bean Salad,25,20,5,250,1 bowl,Lunch,"Mix canned tuna with white beans, red onion, and parsley, drizzle with olive oil.",Veg
+438,Veggie & Hummus Wrap,10,30,5,200,1 wrap,Lunch,"Spread hummus on a tortilla, add mixed veggies, and roll tightly.",Non-Veg
+439,Chicken & Quinoa Bowl,30,35,10,400,1 bowl,Lunch,"Mix grilled chicken with quinoa, black beans, and corn.",Non-Veg
+440,Caprese Pasta Salad,10,40,10,300,1 bowl,Lunch,"Toss cooked pasta with cherry tomatoes, mozzarella, and basil, drizzle with balsamic glaze.",Veg
+441,Black Bean & Corn Salad,15,30,5,250,1 bowl,Lunch,"Mix black beans with corn, bell peppers, and lime dressing.",Veg
+442,Chicken & Spinach Wrap,30,30,10,350,1 wrap,Lunch,"Fill a tortilla with grilled chicken, spinach, and ranch dressing, roll tightly.",Non-Veg
+443,Quinoa & Roasted Chickpea Bowl,12,35,5,250,1 bowl,Lunch,"Toss cooked quinoa with roasted chickpeas and veggies, drizzle with tahini.",Veg
+444,Shrimp & Mango Salad,25,10,15,300,1 bowl,Lunch,"Toss shrimp with mango, avocado, and lime juice, serve chilled.",Non-Veg
+445,Turkey & Spinach Salad,25,10,10,250,1 bowl,Lunch,"Mix sliced turkey with spinach, walnuts, and vinaigrette.",Non-Veg
+446,Grilled Chicken & Avocado Wrap,30,30,15,400,1 wrap,Lunch,"Fill a tortilla with grilled chicken, avocado, and salsa, roll tightly.",Non-Veg
+447,Lentil & Quinoa Salad,18,30,5,250,1 bowl,Lunch,"Combine cooked lentils with quinoa, cherry tomatoes, and a lemon dressing.",Veg
+448,Chicken & Vegetable Stir-Fry,30,20,10,350,1 bowl,Lunch,"Stir-fry chicken with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+449,Greek Chicken Bowl,30,10,15,350,1 bowl,Lunch,"Mix grilled chicken with cucumbers, tomatoes, olives, and feta, drizzle with olive oil.",Non-Veg
+450,Veggie & Quinoa Stuffed Peppers,12,30,5,250,2 peppers,Lunch,"Stuff bell peppers with quinoa, black beans, and spices, bake until tender.",Non-Veg
+451,Chicken & Avocado Toast,30,30,15,400,1 slice,Lunch,Top whole grain toast with grilled chicken and smashed avocado.,Non-Veg
+452,Tuna & Avocado Salad,25,10,15,300,1 bowl,Lunch,"Mix canned tuna with avocado, lime juice, and cilantro, serve chilled.",Veg
+453,Quinoa & Spinach Stuffed Peppers,12,30,5,250,2 peppers,Lunch,"Stuff bell peppers with quinoa, spinach, and cheese, bake until tender.",Veg
+454,Chicken & Sweet Potato Bowl,30,30,10,400,1 bowl,Lunch,"Roast sweet potatoes, top with grilled chicken and a drizzle of honey.",Non-Veg
+455,Mediterranean Lentil Salad,18,30,5,250,1 bowl,Lunch,"Mix lentils with cucumbers, tomatoes, olives, and feta, drizzle with olive oil.",Veg
+456,Shrimp & Avocado Wrap,25,30,15,400,1 wrap,Lunch,"Fill a tortilla with shrimp, avocado, and mixed greens, roll tightly.",Non-Veg
+457,Chicken & Quinoa Stuffed Peppers,30,30,10,400,2 peppers,Lunch,"Stuff bell peppers with quinoa, chicken, and spices, bake until tender.",Non-Veg
+458,Veggie & Hummus Bowl,10,30,5,200,1 bowl,Lunch,Serve assorted veggies with hummus for dipping.,Non-Veg
+459,Turkey & Cranberry Wrap,25,30,10,350,1 wrap,Lunch,"Spread cranberry sauce on a tortilla, layer turkey and spinach, roll tightly.",Non-Veg
+460,Chicken & Rice Bowl,30,40,10,400,1 bowl,Lunch,Serve grilled chicken over brown rice with steamed vegetables.,Non-Veg
+462,Beef Tacos,25,30,10,350,2 tacos,Lunch,"Cook ground beef with taco seasoning, serve in corn tortillas with toppings.",Non-Veg
+463,Chicken & Avocado Salad,30,10,15,300,1 bowl,Lunch,"Toss grilled chicken with avocado, cherry tomatoes, and lime dressing.",Non-Veg
+464,Spinach & Chickpea Salad,12,30,5,250,1 bowl,Lunch,"Mix spinach with chickpeas, red onion, and a lemon vinaigrette.",Veg
+465,Grilled Salmon Salad,25,5,15,300,1 bowl,Lunch,"Grill salmon, serve over mixed greens with a lemon dressing.",Veg
+466,Chicken & Vegetable Soup,30,20,5,250,1 bowl,Lunch,Simmer chicken with mixed vegetables and broth until cooked through.,Non-Veg
+467,Quinoa & Roasted Beet Salad,12,30,5,250,1 bowl,Lunch,"Toss cooked quinoa with roasted beets, goat cheese, and arugula.",Veg
+468,Turkey & Spinach Wrap,25,30,10,350,1 wrap,Lunch,"Fill a tortilla with turkey, spinach, and hummus, roll tightly.",Non-Veg
+469,Shrimp & Quinoa Bowl,25,30,10,350,1 bowl,Lunch,Cook shrimp and serve over quinoa with mixed vegetables.,Non-Veg
+470,Chicken & Black Bean Salad,30,30,5,400,1 bowl,Lunch,"Mix grilled chicken with black beans, corn, and avocado.",Non-Veg
+471,Veggie & Cheese Quesadilla,10,30,10,300,1 quesadilla,Lunch,"Fill a tortilla with cheese and assorted veggies, cook until crispy.",Non-Veg
+472,Tuna & Chickpea Salad,25,20,5,250,1 bowl,Lunch,"Mix canned tuna with chickpeas, red onion, and a lemon dressing.",Veg
+473,Chicken & Sweet Potato Salad,30,30,10,400,1 bowl,Lunch,Toss grilled chicken with roasted sweet potatoes and spinach.,Non-Veg
+474,Mediterranean Pasta Salad,12,40,10,300,1 bowl,Lunch,"Toss cooked pasta with olives, tomatoes, feta, and a lemon dressing.",Veg
+475,Beef & Vegetable Stir-Fry,25,20,10,350,1 bowl,Lunch,"Stir-fry beef with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+476,Chicken & Quinoa Salad,30,35,10,400,1 bowl,Lunch,"Mix grilled chicken with quinoa, spinach, and a vinaigrette.",Non-Veg
+477,Shrimp & Vegetable Stir-Fry,25,20,10,350,1 bowl,Lunch,Stir-fry shrimp with mixed vegetables and serve over rice.,Non-Veg
+478,Quinoa & Spinach Salad,12,30,5,250,1 bowl,Lunch,"Toss cooked quinoa with spinach, cherry tomatoes, and a lemon dressing.",Veg
+479,Chicken & Lentil Soup,30,20,5,250,1 bowl,Lunch,Simmer chicken with lentils and vegetables in broth.,Non-Veg
+480,Veggie & Hummus Sandwich,10,30,5,200,1 sandwich,Lunch,"Spread hummus on whole grain bread, add mixed veggies, and serve.",Non-Veg
+481,Turkey & Avocado Salad,25,10,15,300,1 bowl,Lunch,"Toss sliced turkey with avocado, cherry tomatoes, and a lime dressing.",Non-Veg
+483,Quinoa & Roasted Vegetable Bowl,12,35,5,250,1 bowl,Lunch,Toss cooked quinoa with roasted vegetables and a balsamic vinaigrette.,Veg
+484,Beef & Quinoa Bowl,25,30,10,350,1 bowl,Lunch,Cook ground beef and serve over quinoa with mixed vegetables.,Non-Veg
+485,Chicken & Spinach Pasta,30,40,10,400,1 bowl,Lunch,"Toss cooked pasta with grilled chicken, spinach, and a light cream sauce.",Non-Veg
+486,Mediterranean Chicken Bowl,30,10,15,350,1 bowl,Lunch,"Mix grilled chicken with cucumbers, tomatoes, olives, and feta, drizzle with olive oil.",Non-Veg
+487,Veggie & Lentil Soup,12,30,5,250,1 bowl,Lunch,Simmer lentils with mixed vegetables and broth until tender.,Non-Veg
+488,Shrimp & Avocado Salad,25,10,15,300,1 bowl,Lunch,"Toss shrimp with avocado, lime juice, and cilantro, serve chilled.",Non-Veg
+489,Chicken & Vegetable Wrap,30,30,10,350,1 wrap,Lunch,"Fill a tortilla with grilled chicken, mixed vegetables, and ranch dressing, roll tightly.",Non-Veg
+490,Quinoa & Black Bean Tacos,15,30,5,250,2 tacos,Lunch,"Fill corn tortillas with quinoa, black beans, and avocado, top with salsa.",Veg
+491,Turkey & Spinach Salad,25,10,10,250,1 bowl,Lunch,"Mix sliced turkey with spinach, walnuts, and vinaigrette.",Non-Veg
+492,Chicken & Sweet Potato Bowl,30,30,10,400,1 bowl,Lunch,"Roast sweet potatoes, top with grilled chicken and a drizzle of honey.",Non-Veg
+493,Veggie & Quinoa Salad,12,30,5,250,1 bowl,Lunch,Toss cooked quinoa with mixed vegetables and a lemon dressing.,Non-Veg
+494,Shrimp & Vegetable Salad,25,10,15,300,1 bowl,Lunch,"Toss shrimp with mixed greens, cherry tomatoes, and a light vinaigrette.",Non-Veg
+495,Chicken & Lentil Salad,30,30,5,400,1 bowl,Lunch,"Mix grilled chicken with lentils, spinach, and a vinaigrette.",Non-Veg
+496,Quinoa & Roasted Chickpea Salad,12,35,5,250,1 bowl,Lunch,"Toss cooked quinoa with roasted chickpeas and veggies, drizzle with tahini.",Veg
+497,Beef & Vegetable Soup,25,20,10,350,1 bowl,Lunch,Simmer beef with mixed vegetables and broth until cooked through.,Non-Veg
+498,Chicken & Avocado Wrap,30,30,15,400,1 wrap,Lunch,"Fill a tortilla with grilled chicken, avocado, and salsa, roll tightly.",Non-Veg
+499,Mediterranean Quinoa Bowl,12,35,5,250,1 bowl,Lunch,"Combine quinoa with olives, tomatoes, cucumber, and feta, drizzle with olive oil.",Veg
+500,Shrimp & Mango Salad,25,10,15,300,1 bowl,Lunch,"Toss shrimp with mango, avocado, and lime juice, serve chilled.",Non-Veg
+501,Grilled Salmon with Asparagus,35,10,15,350,1 fillet,Dinner,"Grill salmon and asparagus, serve with lemon.",Veg
+502,Chicken Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+503,Beef Tacos,25,30,10,350,2 tacos,Dinner,"Cook ground beef with taco seasoning, serve in corn tortillas with toppings.",Non-Veg
+504,Vegetable Curry,10,30,5,200,1 bowl,Dinner,"Cook mixed vegetables in coconut milk with curry spices, serve with rice.",Veg
+505,Shrimp & Grits,25,40,15,450,1 bowl,Dinner,"Cook shrimp in a spicy sauce, serve over creamy grits.",Non-Veg
+506,Baked Chicken Thighs,30,0,20,400,1 thigh,Dinner,"Season chicken thighs, bake at 375°F for 45 minutes until cooked through.",Non-Veg
+507,Quinoa & Black Bean Chili,15,30,5,250,1 bowl,Dinner,Cook quinoa and black beans with tomatoes and spices until thickened.,Veg
+508,Eggplant Parmesan,10,30,10,300,1 serving,Dinner,"Layer baked eggplant with marinara and cheese, bake until bubbly.",Non-Veg
+509,Chicken & Vegetable Casserole,30,40,10,400,1 serving,Dinner,"Combine chicken and mixed vegetables in a casserole dish, bake until bubbly.",Non-Veg
+510,Lentil & Spinach Stew,18,30,5,250,1 bowl,Dinner,Simmer lentils with spinach and spices in vegetable broth until tender.,Veg
+511,Grilled Veggie Skewers,10,20,5,150,2 skewers,Dinner,"Skewer assorted vegetables, grill until tender.",Non-Veg
+512,Chicken & Quinoa Bowl,30,35,10,400,1 bowl,Dinner,Serve grilled chicken over quinoa with mixed vegetables.,Non-Veg
+513,Shrimp & Vegetable Stir-Fry,25,20,10,350,1 bowl,Dinner,"Stir-fry shrimp with mixed vegetables and garlic, serve over rice.",Non-Veg
+514,Beef & Broccoli,30,20,10,350,1 bowl,Dinner,"Stir-fry beef with broccoli and soy sauce, serve over rice.",Non-Veg
+515,Chicken & Lentil Soup,25,20,5,250,1 bowl,Dinner,"Simmer chicken, lentils, and vegetables in broth until cooked.",Non-Veg
+516,Quinoa & Roasted Vegetable Bowl,12,35,5,250,1 bowl,Dinner,Toss cooked quinoa with roasted vegetables and a lemon dressing.,Veg
+517,Baked Cod with Lemon,30,0,5,200,1 fillet,Dinner,Bake cod with lemon and herbs until flaky.,Veg
+518,Chicken & Sweet Potato Skillet,30,40,10,400,1 bowl,Dinner,Saute chicken and sweet potatoes with spices until cooked through.,Non-Veg
+521,Stuffed Bell Peppers,20,30,5,250,2 peppers,Dinner,"Stuff bell peppers with ground turkey, rice, and spices, bake until tender.",Veg
+522,Shrimp Tacos,25,30,10,350,2 tacos,Dinner,"Cook shrimp with spices, serve in corn tortillas with slaw.",Non-Veg
+523,Chicken Alfredo,30,40,15,500,1 serving,Dinner,"Cook fettuccine, toss with grilled chicken and Alfredo sauce.",Non-Veg
+524,Beef Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry beef with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+525,Vegetable Lasagna,12,40,10,350,1 serving,Dinner,"Layer noodles with ricotta, spinach, marinara, and mozzarella, bake until bubbly.",Veg
+526,Chicken & Rice Casserole,30,40,10,400,1 serving,Dinner,"Combine chicken, rice, and cream of mushroom soup, bake until cooked through.",Non-Veg
+527,Quinoa & Spinach Stuffed Peppers,12,30,5,250,2 peppers,Dinner,"Stuff bell peppers with quinoa, spinach, and cheese, bake until tender.",Veg
+528,Baked Ziti,15,40,10,400,1 serving,Dinner,"Mix cooked ziti with marinara and cheese, bake until bubbly.",Veg
+529,Chicken & Mushroom Risotto,30,40,10,400,1 bowl,Dinner,"Cook arborio rice with chicken broth, add chicken and mushrooms, stir until creamy.",Non-Veg
+530,Grilled Pork Chops,30,0,15,300,1 chop,Dinner,"Season pork chops, grill until cooked through.",Non-Veg
+531,Lentil & Vegetable Stew,18,30,5,250,1 bowl,Dinner,Simmer lentils with mixed vegetables and spices in vegetable broth until tender.,Veg
+532,Chicken & Broccoli Casserole,30,40,10,400,1 serving,Dinner,"Combine chicken, broccoli, and cheese in a casserole dish, bake until bubbly.",Non-Veg
+533,Shrimp & Grits,25,40,15,450,1 bowl,Dinner,"Cook shrimp in a spicy sauce, serve over creamy grits.",Non-Veg
+534,Beef & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry beef with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+535,Chicken & Spinach Pasta,30,40,10,400,1 bowl,Dinner,"Toss cooked pasta with grilled chicken, spinach, and a light cream sauce.",Non-Veg
+536,Quinoa & Roasted Chickpea Salad,12,35,5,250,1 bowl,Dinner,"Toss cooked quinoa with roasted chickpeas and veggies, drizzle with tahini.",Veg
+537,Grilled Vegetable Pasta,10,40,5,250,1 bowl,Dinner,Toss cooked pasta with grilled vegetables and olive oil.,Veg
+538,Chicken & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+539,Baked Eggplant Rollatini,10,30,10,300,2 rolls,Dinner,"Roll eggplant slices with ricotta, top with marin ara sauce, and bake until bubbly.",Non-Veg
+540,Beef & Quinoa Bowl,25,30,10,350,1 bowl,Dinner,Cook ground beef and serve over quinoa with mixed vegetables.,Non-Veg
+541,Chicken & Sweet Potato Bake,30,40,10,400,1 serving,Dinner,Bake chicken and sweet potatoes with herbs until cooked through.,Non-Veg
+542,Shrimp & Broccoli Stir-Fry,25,20,10,350,1 bowl,Dinner,"Stir-fry shrimp with broccoli and garlic, serve over rice.",Non-Veg
+543,Vegetable & Lentil Curry,15,30,5,250,1 bowl,Dinner,Cook lentils and mixed vegetables in coconut milk with curry spices.,Veg
+544,Chicken & Rice Bowl,30,40,10,400,1 bowl,Dinner,Serve grilled chicken over brown rice with steamed vegetables.,Non-Veg
+545,Quinoa & Spinach Stuffed Peppers,12,30,5,250,2 peppers,Dinner,"Stuff bell peppers with quinoa, spinach, and cheese, bake until tender.",Veg
+546,Beef & Mushroom Stroganoff,30,30,15,450,1 serving,Dinner,"Cook beef and mushrooms in a creamy sauce, serve over egg noodles.",Non-Veg
+547,Chicken & Vegetable Soup,30,20,5,250,1 bowl,Dinner,Simmer chicken with mixed vegetables and broth until cooked through.,Non-Veg
+548,Grilled Chicken Caesar Salad,30,10,15,400,1 bowl,Dinner,"Toss romaine with grilled chicken, Caesar dressing, croutons, and parmesan.",Non-Veg
+549,Lentil & Vegetable Curry,18,30,5,250,1 bowl,Dinner,Cook lentils with mixed vegetables in coconut milk and curry spices.,Veg
+550,Shrimp & Vegetable Skewers,25,10,5,200,2 skewers,Dinner,"Skewer shrimp and vegetables, grill until cooked through.",Non-Veg
+551,Chicken & Quinoa Stir-Fry,30,35,10,400,1 bowl,Dinner,"Stir-fry chicken with quinoa and mixed vegetables, season to taste.",Non-Veg
+552,Baked Salmon with Dill,35,0,15,300,1 fillet,Dinner,Bake salmon with dill and lemon until flaky.,Veg
+553,Vegetable Fried Rice,10,40,5,250,1 bowl,Dinner,Stir-fry rice with mixed vegetables and soy sauce.,Veg
+554,Chicken & Spinach Stuffed Shells,30,40,10,400,4 shells,Dinner,"Stuff pasta shells with chicken and spinach, top with marinara, and bake.",Non-Veg
+555,Beef & Vegetable Casserole,30,40,10,400,1 serving,Dinner,"Combine ground beef and mixed vegetables in a casserole dish, bake until bubbly.",Non-Veg
+556,Shrimp & Avocado Salad,25,10,15,300,1 bowl,Dinner,"Toss shrimp with avocado, lime juice, and cilantro, serve chilled.",Non-Veg
+557,Chicken & Lentil Salad,30,30,5,400,1 bowl,Dinner,"Mix grilled chicken with lentils, spinach, and a vinaigrette.",Non-Veg
+558,Quinoa & Roasted Vegetable Salad,12,35,5,250,1 bowl,Dinner,Toss cooked quinoa with roasted vegetables and a balsamic vinaigrette.,Veg
+559,Beef & Broccoli Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry beef with broccoli and soy sauce, serve over rice.",Non-Veg
+560,Chicken & Sweet Potato Hash,30,40,10,400,1 bowl,Dinner,Saute diced chicken and sweet potatoes with spices until cooked through.,Non-Veg
+561,Vegetable & Chickpea Stir-Fry,15,30,5,250,1 bowl,Dinner,"Stir-fry chickpeas with mixed vegetables and soy sauce, serve over rice.",Veg
+562,Grilled Chicken & Quinoa Salad,30,35,10,400,1 bowl,Dinner,"Toss grilled chicken with quinoa, cherry tomatoes, and a lemon vinaigrette.",Non-Veg
+563,Baked Eggplant Parmesan,10,30,10,300,1 serving,Dinner,"Layer baked eggplant with marinara and cheese, bake until bubbly.",Non-Veg
+564,Shrimp & Spinach Pasta,25,40,10,400,1 bowl,Dinner,"Toss cooked pasta with shrimp, spinach, and garlic in olive oil.",Non-Veg
+565,Chicken & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+566,Quinoa & Black Bean Tacos,15,30,5,250,2 tacos,Dinner,"Fill corn tortillas with quinoa, black beans, and avocado, top with salsa.",Veg
+567,Beef & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry beef with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+568,Chicken & Lentil Soup,30,20,5,250,1 bowl,Dinner,Simmer chicken with lentils and vegetables in broth until cooked.,Non-Veg
+569,Grilled Vegetable Pasta,10,40,5,250,1 bowl,Dinner,Toss cooked pasta with grilled vegetables and olive oil.,Veg
+570,Shrimp & Vegetable Skewers,25,10,5,200,2 skewers,Dinner,"Skewer shrimp and vegetables, grill until cooked through.",Non-Veg
+571,Chicken & Quinoa Stir-Fry,30,35,10,400,1 bowl,Dinner,"Stir-fry chicken with quinoa and mixed vegetables, season to taste.",Non-Veg
+572,Baked Salmon with Dill,35,0,15,300,1 fillet,Dinner,Bake salmon with dill and lemon until flaky.,Veg
+573,Vegetable Fried Rice,10,40,5,250,1 bowl,Dinner,Stir-fry rice with mixed vegetables and soy sauce.,Veg
+574,Chicken & Spinach Stuffed Shells,30,40,10,400,4 shells,Dinner,"Stuff pasta shells with chicken and spinach, top with marinara, and bake.",Non-Veg
+575,Beef & Vegetable Casserole,30,40,10,400,1 serving,Dinner,"Combine ground beef and mixed vegetables in a casserole dish, bake until bubbly.",Non-Veg
+576,Shrimp & Avocado Salad,25,10,15,300,1 bowl,Dinner,"Toss shrimp with avocado, lime juice, and cilantro, serve chilled.",Non-Veg
+577,Chicken & Lentil Salad,30,30,5,400,1 bowl,Dinner,"Mix grilled chicken with lentils, spinach, and a vinaigrette.",Non-Veg
+578,Quinoa & Roasted Vegetable Salad,12,35,5,250,1 bowl,Dinner,Toss cooked quinoa with roasted vegetables and a balsamic vinaigrette.,Veg
+579,Beef & Broccoli Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-f ry beef with broccoli and soy sauce, serve over rice.",Non-Veg
+580,Chicken & Sweet Potato Hash,30,40,10,400,1 bowl,Dinner,Saute diced chicken and sweet potatoes with spices until cooked through.,Non-Veg
+581,Vegetable & Chickpea Stir-Fry,15,30,5,250,1 bowl,Dinner,"Stir-fry chickpeas with mixed vegetables and soy sauce, serve over rice.",Veg
+582,Grilled Chicken & Quinoa Salad,30,35,10,400,1 bowl,Dinner,"Toss grilled chicken with quinoa, cherry tomatoes, and a lemon vinaigrette.",Non-Veg
+583,Baked Eggplant Parmesan,10,30,10,300,1 serving,Dinner,"Layer baked eggplant with marinara and cheese, bake until bubbly.",Non-Veg
+584,Shrimp & Spinach Pasta,25,40,10,400,1 bowl,Dinner,"Toss cooked pasta with shrimp, spinach, and garlic in olive oil.",Non-Veg
+585,Chicken & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry chicken with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+586,Quinoa & Black Bean Tacos,15,30,5,250,2 tacos,Dinner,"Fill corn tortillas with quinoa, black beans, and avocado, top with salsa.",Veg
+587,Beef & Vegetable Stir-Fry,30,20,10,350,1 bowl,Dinner,"Stir-fry beef with mixed vegetables and soy sauce, serve over rice.",Non-Veg
+588,Chicken & Lentil Soup,30,20,5,250,1 bowl,Dinner,Simmer chicken with lentils and vegetables in broth until cooked.,Non-Veg
+589,Grilled Vegetable Pasta,10,40,5,250,1 bowl,Dinner,Toss cooked pasta with grilled vegetables and olive oil.,Veg
+590,Shrimp & Vegetable Skewers,25,10,5,200,2 skewers,Dinner,"Skewer shrimp and vegetables, grill until cooked through.",Non-Veg
+591,Chicken & Quinoa Stir-Fry,30,35,10,400,1 bowl,Dinner,"Stir-fry chicken with quinoa and mixed vegetables, season to taste.",Non-Veg
+592,Baked Salmon with Dill,35,0,15,300,1 fillet,Dinner,Bake salmon with dill and lemon until flaky.,Veg
+593,Vegetable Fried Rice,10,40,5,250,1 bowl,Dinner,Stir-fry rice with mixed vegetables and soy sauce.,Veg
+594,Chicken & Spinach Stuffed Shells,30,40,10,400,4 shells,Dinner,"Stuff pasta shells with chicken and spinach, top with marinara, and bake.",Non-Veg
+595,Beef & Vegetable Casserole,30,40,10,400,1 serving,Dinner,"Combine ground beef and mixed vegetables in a casserole dish, bake until bubbly.",Non-Veg
+596,Shrimp & Avocado Salad,25,10,15,300,1 bowl,Dinner,"Toss shrimp with avocado, lime juice, and cilantro, serve chilled.",Non-Veg
+597,Chicken & Lentil Salad,30,30,5,400,1 bowl,Dinner,"Mix grilled chicken with lentils, spinach, and a vinaigrette.",Non-Veg
+598,Quinoa & Roasted Vegetable Salad,12,35,5,250,1 bowl,Dinner,Toss cooked quinoa with roasted vegetables and a balsamic vinaigrette.,Veg
+60,Baked Eggplant Parmesan,10,30,10,300,1 serving,Dinner,"Layer baked eggplant with marinara and cheese, bake until bubbly.",Non-Veg
+601,Hummus & Veggies,5,15,5,100,1 serving,Snack,Serve hummus with assorted raw vegetables for dipping.,Non-Veg
+602,Greek Yogurt with Berries,15,20,5,200,1 cup,Snack,Top Greek yogurt with fresh berries and a drizzle of honey.,Veg
+603,Almonds & Dark Chocolate,5,10,10,150,1 oz,Snack,Enjoy a handful of almonds with a few pieces of dark chocolate.,Veg
+604,Apple Slices with Peanut Butter,4,25,8,200,1 apple,Snack,Slice an apple and spread peanut butter on each slice.,Veg
+605,Rice Cakes with Avocado,3,15,10,150,2 cakes,Snack,Top rice cakes with smashed avocado and a sprinkle of salt.,Veg
+606,Cottage Cheese & Pineapple,15,20,2,150,1 cup,Snack,Mix cottage cheese with pineapple chunks for a refreshing snack.,Veg
+607,Trail Mix,8,30,10,250,1/4 cup,Snack,"Combine nuts, seeds, and dried fruits for a healthy trail mix.",Veg
+608,Veggie Chips,2,15,5,100,1 serving,Snack,Bake thinly sliced vegetables until crispy for a healthy chip alternative.,Non-Veg
+609,Hard-Boiled Eggs,6,1,5,70,2 eggs,Snack,"Boil eggs, cool, and enjoy as a protein-packed snack.",Non-Veg
+610,Banana Oatmeal Cookies,3,20,5,100,2 cookies,Snack,"Mix mashed bananas with oats, bake until golden for a healthy cookie.",Veg
+611,Edamame,8,14,5,120,1 cup,Snack,Steam edamame pods and sprinkle with sea salt for a protein-rich snack.,Veg
+612,Cheese & Whole Grain Crackers,10,15,8,200,1 serving,Snack,Pair cheese slices with whole grain crackers for a satisfying snack.,Veg
+613,Cucumber & Cream Cheese Bites,3,5,5,50,1 cucumber,Snack,"Spread cream cheese on cucumber slices, sprinkle with herbs.",Veg
+614,Popcorn with Nutritional Yeast,5,15,5,100,3 cups,Snack,Popcorn sprinkled with nutritional yeast for a cheesy flavor without the calories.,Veg
+615,Dark Chocolate-Covered Almonds,5,10,10,150,1 oz,Snack,Enjoy almonds dipped in dark chocolate for a sweet and salty treat.,Veg
+616,Greek Yogurt Parfait,15,25,5,200,1 cup,Snack,Layer Greek yogurt with granola and fresh fruits in a cup.,Veg
+617,Celery Sticks with Peanut Butter,4,10,8,100,2 stalks,Snack,Spread peanut butter in celery sticks for a crunchy snack.,Veg
+618,Mini Caprese Skewers,8,5,5,100,4 skewers,Snack,"Skewer cherry tomatoes, mozzarella balls, and basil for a fresh bite.",Veg
+619,Sweet Potato Chips,2,15,5,100,1 serving,Snack,Bake thinly sliced sweet potatoes until crispy for a healthy chip alternative.,Veg
+620,Fruit Salad,1,25,0,100,1 cup,Snack,Mix assorted fresh fruits for a refreshing salad.,Veg
+621,Nut Butter Energy Bites,5,15,8,150,2 bites,Snack,"Combine nut butter, oats, and honey, roll into balls, and refrigerate.",Veg
+622,Zucchini Chips,2,10,5,80,1 serving,Snack,Bake thinly sliced zucchini until crispy for a low-carb snack.,Veg
+623,Yogurt & Granola Bowl,15,30,5,250,1 bowl,Snack,Layer yogurt with granola and a drizzle of honey for a satisfying treat.,Veg
+624,Spicy Roasted Chickpeas,6,20,5,120,1/2 cup,Snack,Roast chickpeas with spices until crispy for a crunchy snack.,Veg
+625,Avocado Toast,3,15,10,150,1 slice,Snack,"Spread mashed avocado on whole grain toast, sprinkle with salt and pepper.",Veg
+626,Cheese Quesadilla,10,20,10,250,1 serving,Snack,"Fill a tortilla with cheese, fold, and cook until golden and melted.",Veg
+628,Cacao Nibs & Almonds,5,10,10,150,1 oz,Snack,"Mix cacao nibs with almonds for a crunchy, chocolatey snack.",Veg
+629,Roasted Seaweed Snacks,1,5,3,30,1 package,Snack,Enjoy crispy roasted seaweed sheets for a light and savory snack.,Veg
+630,Peanut Butter Banana Bites,4,20,8,150,1 banana,Snack,Slice a banana and spread peanut butter between the slices.,Veg
+631,Chocolate Avocado Mousse,2,15,10,150,1 serving,Snack,Blend avocado with cocoa powder and sweetener for a creamy dessert.,Veg
+632,Veggie Sticks with Hummus,5,15,5,100,1 serving,Snack,Serve assorted veggie sticks with hummus for dipping.,Non-Veg
+633,Apple Chips,0,25,0,100,1 serving,Snack,Bake thin apple slices until crispy for a healthy snack.,Veg
+634,Chia Seed Pudding,5,15,5,150,1 cup,Snack,"Mix chia seeds with almond milk and let sit overnight, sweeten if desired.",Veg
+635,Pita Chips with Salsa,5,20,5,150,1 serving,Snack,Serve baked pita chips with fresh salsa for dipping.,Veg
+636,Coconut Yogurt with Granola,5,30,10,250,1 cup,Snack,Top coconut yogurt with granola and fresh fruit for a tropical treat.,Veg
+637,Baked Kale Chips,3,5,5,50,1 serving,Snack,Bake kale leaves with olive oil and salt until crispy for a healthy chip alternative.,Veg
+638,Nutty Banana Bites,4,20,8,150,1 banana,Snack,Slice a banana and top with almond or peanut butter and chopped nuts.,Veg
+639,Mini Veggie Frittatas,8,5,5,100,2 frittatas,Snack,"Whisk eggs with diced vegetables, pour into muffin tins, and bake until set.",Non-Veg
+640,Cinnamon Sugar Tortilla Chips,3,20,5,150,1 serving,Snack,Bake tortilla triangles coated with cinnamon and sugar until crispy.,Veg
+641,Chocolate-Dipped Strawberries,1,15,5,100,3 strawberries,Snack,Dip fresh strawberries in melted chocolate and let cool until set.,Veg
+642,Savory Oatmeal with Egg,6,30,5,200,1 bowl,Snack,"Cook oatmeal with broth, top with a poached egg and season to taste.",Non-Veg
+643,Spiced Nuts,6,10,15,200,1 oz,Snack,Roast mixed nuts with spices for a flavorful snack.,Veg
+644,Yogurt-Covered Raisins,1,25,5,150,1 oz,Snack,Enjoy raisins coated in yogurt for a sweet treat.,Veg
+645,Cucumber Sandwiches,2,10,5,50,2 sandwiches,Snack,Layer cucumber slices between whole grain bread with cream cheese.,Veg
+646,Sweet Potato Hummus,5,20,5,150,1 serving,Snack,Blend cooked sweet potatoes with tahini and spices for a unique dip.,Veg
+648,Fruit & Nut Trail Mix,5,25,10,200,1/4 cup,Snack,Combine nuts and dried fruits for a quick and healthy trail mix.,Veg
+649,Mini Quiches,8,5,5,100,2 quiches,Snack,"Whisk eggs with vegetables and cheese, pour into muffin tins, and bake until set.",Veg
+650,Chocolate Coconut Energy Balls,5,15,8,150,2 balls,Snack,"Mix cocoa powder, coconut, and nut butter, roll into balls, and refrigerate.",Veg
+651,Spicy Avocado Toast,3,15,10,150,1 slice,Snack,"Spread mashed avocado on whole grain toast, sprinkle with chili flakes.",Veg
+652,Baked Apple with Cinnamon,1,25,0,100,1 apple,Snack,"Core an apple, sprinkle with cinnamon, and bake until tender.",Veg
+653,Savory Yogurt Dip,5,10,5,100,1 serving,Snack,Mix yogurt with herbs and spices for a savory dip for veggies.,Veg
+654,Peanut Butter Rice Cakes,4,15,8,150,2 cakes,Snack,Spread peanut butter on rice cakes and top with banana slices.,Veg
+655,Chocolate Banana Smoothie,2,30,5,200,1 serving,Snack,Blend banana with cocoa powder and almond milk for a creamy smoothie.,Veg
+656,Cauliflower Buffalo Bites,3,10,5,100,1 serving,Snack,Toss cauliflower florets in buffalo sauce and bake until crispy.,Veg
+657,Almond Butter & Celery Sticks,4,10,8,100,2 sticks,Snack,Spread almond butter in celery sticks for a crunchy snack.,Veg
+658,Chocolate Chip Protein Balls,5,15,8,150,2 balls,Snack,"Mix protein powder, oats, and chocolate chips, roll into balls, and refrigerate.",Veg
+659,Roasted Garlic Hummus,5,15,5,100,1 serving,Snack,Blend roasted garlic with chickpeas and tahini for a flavorful dip.,Veg
+660,Sweet Potato & Black Bean Bites,6,20,5,150,4 bites,Snack,"Mix mashed sweet potatoes with black beans, form into bites, and bake.",Veg
+661,Coconut Chia Pudding,5,15,10,150,1 cup,Snack,"Mix chia seeds with coconut milk and let sit overnight, sweeten if desired.",Veg
+662,Spicy Popcorn,5,15,5,100,3 cups,Snack,Pop popcorn and toss with chili powder and lime juice for a spicy kick.,Veg
+663,Mini Veggie Spring Rolls,2,15,5,100,2 rolls,Snack,"Fill rice paper with veggies and herbs, roll tightly, and serve with dipping sauce.",Non-Veg
+664,Cinnamon Apple Oatmeal,5,30,5,200,1 bowl,Snack,Cook oats with diced apples and cinnamon for a warm snack.,Veg
+665,Avocado & Tomato Salad,3,10,10,150,1 serving,Snack,Toss diced avocado and tomatoes with olive oil and lemon juice.,Veg
+666,Peanut Butter Chocolate Rice Cakes,4,15,8,150,2 cakes,Snack,Spread peanut butter on rice cakes and drizzle with melted chocolate.,Veg
