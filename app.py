@@ -13,7 +13,7 @@ from sklearn.metrics import mean_absolute_percentage_error
 from sklearn.model_selection import train_test_split
 
 app = Flask(__name__)
-app.secret_key = 'your_secret_key_here'  # Change this!
+#app.secret_key = 'your_secret_key_here'  # Change this!
 
 # -----------------------
 # MySQL (phpMyAdmin) Configuration
@@ -24,7 +24,7 @@ app.secret_key = 'your_secret_key_here'  # Change this!
 #app.config['MYSQL_DB'] = 'fitness'
 
 # App secret key
-app.secret_key = os.environ.get('SECRET_KEY', 'dev_secret_key')
+#app.secret_key = os.environ.get('SECRET_KEY', 'dev_secret_key')
 
 # MySQL Configuration (from environment variables)
 app.config['MYSQL_HOST'] = os.environ.get('MYSQL_HOST')
